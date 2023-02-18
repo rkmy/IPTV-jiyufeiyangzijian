@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/1ab463fdaf4b4e79a3d90f52a17c270d_big.jpg" group-title="斗鱼-炉石传说",异灵术老师
+http://192.168.3.144:35455/douyu/93589
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201910/54c8b6e4868041b1b1dc39776c110850_big.jpg" group-title="斗鱼-炉石传说",恩基爱萌萌哒的狗贼
+http://192.168.3.144:35455/douyu/208114
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201804/81b0f04200aacbe5ced32113e1d02c16_big.jpg" group-title="斗鱼-炉石传说",神棍老师麦迪文
+http://192.168.3.144:35455/douyu/4767111
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201807/4c4d2300f11c6a8cecdde89a1173093e_big.jpg" group-title="斗鱼-炉石传说",驴鸽LvGe
+http://192.168.3.144:35455/douyu/5110403
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201811/6a8d9bc682a067c2900ad076a6bab179_big.jpg" group-title="斗鱼-炉石传说",一本稻
+http://192.168.3.144:35455/douyu/300358
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/002/48/83/16_avatar_middle.jpg" group-title="斗鱼-主机游戏",寅子
+http://192.168.3.144:35455/douyu/71415
+
+
+
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/cb/ab41300582958653660b6620e05fd1_180_135.jpg?1577343415&465631" group-title="虎牙-王者荣耀",LING-树叶
+http://192.168.3.144:35455/huya/ye4655
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/b9/b6824c9d5593f03f5b5c4f71189023_180_135.jpg?1564815405" group-title="虎牙-王者荣耀",张大仙
+http://192.168.3.144:35455/huya/688
+
+
+
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/0d9d456607b880d2767513dcf65f43c9d82dadea.jpg" group-title="哔哩哔哩-英雄联盟", 菠萝赛东°
+http://192.168.3.144:35455/bilibili/5520?line=first
+
+
+
+
+
+
