@@ -10,6 +10,10 @@ http://192.168.3.144:35455/douyu/4767111
 http://192.168.3.144:35455/douyu/5110403
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201811/6a8d9bc682a067c2900ad076a6bab179_big.jpg" group-title="斗鱼-炉石传说",一本稻
 http://192.168.3.144:35455/douyu/300358
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/411b6177539f42799e0e077780cbc2e8_big.jpg" group-title="斗鱼-炉石传说",王师傅精益求精
+http://192.168.3.144:35455/douyu/21267
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/5db4cdd153bb4353889542464eeb5ce4_big.jpg" group-title="斗鱼-炉石传说",过载十五岁的涛妹
+http://192.168.3.144:35455/douyu/32892
 
 
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202209/bc69ef78e3874f3ca96240e91554b646_big.jpg" group-title="斗鱼-英雄联盟",不2不叫周淑怡
@@ -24,6 +28,16 @@ http://192.168.3.144:35455/douyu/156277
 http://192.168.3.144:35455/douyu/74751
 
 
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/84616b06512c4e2bad81c37d8d3e3db8_big.jpg" group-title="斗鱼-游戏女神",呆妹儿小霸王
+http://192.168.3.144:35455/douyu/92000
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202301/8df305e4425b4da2b35ef2a2075173c0_big.jpg" group-title="斗鱼-游戏女神",叶知秋Vanessa
+http://192.168.3.144:35455/douyu/111111
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201812/9f81a977e2ea4abdb7d41207b9e9a086_big.jpg" group-title="斗鱼-游戏女神",腐团儿
+http://192.168.3.144:35455/douyu/4624967
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/9f6eed7307ee47c3b86ef0d1df4a26b9_big.jpg" group-title="斗鱼-游戏女神",王雨檬呀
+http://192.168.3.144:35455/douyu/9000
+
+
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/77c560ee22864cb9948b284db2b563fd_big.jpg" group-title="斗鱼-LOL手游",灵药LoveLing
 http://192.168.3.144:35455/douyu/9408500
 
@@ -34,13 +48,30 @@ http://192.168.3.144:35455/huya/ye4655
 http://192.168.3.144:35455/huya/688
 
 
-
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg" group-title="哔哩哔哩-户外", 极客湾Geekerwan
+http://192.168.3.144:35455/bilibili/544843?line=first
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/0d9d456607b880d2767513dcf65f43c9d82dadea.jpg" group-title="哔哩哔哩-英雄联盟", 菠萝赛东°
 http://192.168.3.144:35455/bilibili/5520?line=first
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/bfeefb35207daf0c0dd86c3ba97b0690cb7a606d.jpg" group-title="哔哩哔哩-综合棋牌", 棋手战鹰
 http://192.168.3.144:35455/bilibili/23141761?line=first
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/927c4a3190e9372c160f1768925b0f2b3604264e.jpg" group-title="哔哩哔哩-综合棋牌", 柯洁
 http://192.168.3.144:35455/bilibili/23555200?line=first
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/ddcf10852e410b4c57f0f23e7e81edde2c6edd35.jpg" group-title="哔哩哔哩-主机游戏", Xbox盒子君
+http://192.168.3.144:35455/bilibili/865961?line=first
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/ec008e32064705c576f3ffd73d20288e441d945f.jpg" group-title="哔哩哔哩-主机游戏", 远古时代装机猿
+http://192.168.3.144:35455/bilibili/1361615?line=first
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/4a9e95a8f07d5b4bedc9d8d7ab623d88d917f484.jpg" group-title="哔哩哔哩-主机游戏", 艾森巴赫
+http://192.168.3.144:35455/bilibili/1393938?line=first
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/608b64c3120dbe2e7ccbc244fdf5b9532996e960.jpg" group-title="哔哩哔哩-舞见", 小深深儿
+http://192.168.3.144:35455/bilibili/3325?line=first
+
+
+
+
+
+
+
+
 
 
 
