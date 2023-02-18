@@ -37,8 +37,10 @@ http://192.168.3.144:35455/huya/688
 
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/0d9d456607b880d2767513dcf65f43c9d82dadea.jpg" group-title="哔哩哔哩-英雄联盟", 菠萝赛东°
 http://192.168.3.144:35455/bilibili/5520?line=first
-
-
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/bfeefb35207daf0c0dd86c3ba97b0690cb7a606d.jpg" group-title="哔哩哔哩-综合棋牌", 棋手战鹰
+http://192.168.3.144:35455/bilibili/23141761?line=first
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/927c4a3190e9372c160f1768925b0f2b3604264e.jpg" group-title="哔哩哔哩-综合棋牌", 柯洁
+http://192.168.3.144:35455/bilibili/23555200?line=first
 
 
 
