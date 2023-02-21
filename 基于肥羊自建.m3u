@@ -66,8 +66,8 @@ http://192.168.3.144:35455/bilibili/1393938?line=first
 http://192.168.3.144:35455/bilibili/3325?line=first
 
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/iRf2XYjATRJqZXcsrlRhG8KZobJqsfQBkzpsvPubb0uDbZffnIuNEHzahfWX_kMBRljZ6OMMoA=s88-c-k-c0x00ffffff-no-rj" group-title="Youtube",平靜祥和的咖啡廳鋼琴曲
-http://192.168.3.144:35455/youtube/T1AoJRdC_8A
+#EXTINF:-1,tvg-id="1" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/iRf2XYjATRJqZXcsrlRhG8KZobJqsfQBkzpsvPubb0uDbZffnIuNEHzahfWX_kMBRljZ6OMMoA=s88-c-k-c0x00ffffff-no-rj" group-title="Youtube",平靜祥和的咖啡廳鋼琴曲
+http://192.168.3.144:35455/youtube/T1AoJRdC_8A(?quality=2160)
 
 
 
