@@ -16,6 +16,8 @@ http://192.168.3.144:35455/douyu/21267
 http://192.168.3.144:35455/douyu/32892
 
 
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/cff01101879d4cf29a0f5ff86b3c5550_big.jpg" group-title="斗鱼-英雄联盟",即将拥有人鱼线的PDD
+http://192.168.3.144:35455/douyu/101
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202209/bc69ef78e3874f3ca96240e91554b646_big.jpg" group-title="斗鱼-英雄联盟",不2不叫周淑怡
 http://192.168.3.144:35455/douyu/22222
 
