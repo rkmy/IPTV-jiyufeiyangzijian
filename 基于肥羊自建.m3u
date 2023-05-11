@@ -54,10 +54,10 @@ http://192.168.3.144:35455/huya/688
 
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg" group-title="哔哩哔哩-户外", 极客湾Geekerwan
 http://192.168.3.144:35455/bilibili/544843?line=first
-#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/54a71a6baacd647c536a85bf4faf2d328248962d.jpg" group-title="哔哩哔哩-萌宠", 酒酿大丸子
-http://192.168.3.144:35455/bilibili/6966366?line=first
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/0d9d456607b880d2767513dcf65f43c9d82dadea.jpg" group-title="哔哩哔哩-英雄联盟", 菠萝赛东°
 http://192.168.3.144:35455/bilibili/5520?line=first
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/d442b405ea18f1fff815084a73fe3a3abb5c1424.gif" group-title="哔哩哔哩-萌宅领域", 小缘
+http://192.168.3.144:35455/bilibili/196?line=first
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/bfeefb35207daf0c0dd86c3ba97b0690cb7a606d.jpg" group-title="哔哩哔哩-综合棋牌", 棋手战鹰
 http://192.168.3.144:35455/bilibili/23141761?line=first
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/927c4a3190e9372c160f1768925b0f2b3604264e.jpg" group-title="哔哩哔哩-综合棋牌", 柯洁
@@ -78,6 +78,11 @@ http://192.168.3.144:35455/bilibili/9900640?line=first
 http://192.168.3.144:35455/bilibili/4038332?line=first
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/dee7aec1100776af47c918e13fe1846ab3c4222e.jpg" group-title="哔哩哔哩-社科法律心理", 爱思考的老梨
 http://192.168.3.144:35455/bilibili/22566226?line=first
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/54a71a6baacd647c536a85bf4faf2d328248962d.jpg" group-title="哔哩哔哩-萌宠", 酒酿大丸子
+http://192.168.3.144:35455/bilibili/6966366?line=first
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/2e62f48f779bc5511f3e056f98fd5acbdc356f3f.jpg" group-title="哔哩哔哩-主机游戏", 我是买爆哥
+http://192.168.3.144:35455/bilibili/21842568?line=first
+
 
 
 #EXTINF:-1,tvg-id="1" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/iRf2XYjATRJqZXcsrlRhG8KZobJqsfQBkzpsvPubb0uDbZffnIuNEHzahfWX_kMBRljZ6OMMoA=s88-c-k-c0x00ffffff-no-rj" group-title="Youtube",平靜祥和的咖啡廳鋼琴曲
