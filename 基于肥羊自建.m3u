@@ -14,14 +14,10 @@ http://192.168.3.144:35455/douyu/300358
 http://192.168.3.144:35455/douyu/21267
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/5db4cdd153bb4353889542464eeb5ce4_big.jpg" group-title="斗鱼-炉石传说",过载十五岁的涛妹
 http://192.168.3.144:35455/douyu/32892
-
-
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/cff01101879d4cf29a0f5ff86b3c5550_big.jpg" group-title="斗鱼-英雄联盟",即将拥有人鱼线的PDD
 http://192.168.3.144:35455/douyu/101
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202209/bc69ef78e3874f3ca96240e91554b646_big.jpg" group-title="斗鱼-英雄联盟",不2不叫周淑怡
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202209/bc69ef78e3874f3ca96240e91554b646_big.jpg" group-title="斗鱼-网游竞技",不2不叫周淑怡
 http://192.168.3.144:35455/douyu/22222
-
-
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/002/48/83/16_avatar_middle.jpg" group-title="斗鱼-主机游戏",寅子
 http://192.168.3.144:35455/douyu/71415
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/f84ce4b7e1684b1793a700ea7df86e68_big.jpg" group-title="斗鱼-主机游戏",女流66
@@ -30,8 +26,6 @@ http://192.168.3.144:35455/douyu/156277
 http://192.168.3.144:35455/douyu/74751
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/781508179eb44dc394fa171ebf441892_big.jpg" group-title="斗鱼-主机游戏",真栗
 http://192.168.3.144:35455/douyu/3187637
-
-
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/84616b06512c4e2bad81c37d8d3e3db8_big.jpg" group-title="斗鱼-游戏女神",呆妹儿小霸王
 http://192.168.3.144:35455/douyu/92000
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202301/8df305e4425b4da2b35ef2a2075173c0_big.jpg" group-title="斗鱼-游戏女神",叶知秋Vanessa
@@ -40,8 +34,10 @@ http://192.168.3.144:35455/douyu/111111
 http://192.168.3.144:35455/douyu/4624967
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/9f6eed7307ee47c3b86ef0d1df4a26b9_big.jpg" group-title="斗鱼-游戏女神",王雨檬呀
 http://192.168.3.144:35455/douyu/9000
-
-
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/0a7a8221602b4285a0c16e06a8acf8fc_big.jpg" group-title="斗鱼-网游竞技",scboy
+http://192.168.3.144:35455/douyu/3484
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202305/4ac429bca54543b5a13865d2327d8311_big.jpg" group-title="斗鱼-网游竞技",英雄联盟赛事
+http://192.168.3.144:35455/douyu/288016
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/77c560ee22864cb9948b284db2b563fd_big.jpg" group-title="斗鱼-LOL手游",灵药LoveLing
 http://192.168.3.144:35455/douyu/9408500
 
