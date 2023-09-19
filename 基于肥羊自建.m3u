@@ -88,12 +88,12 @@ http://192.168.3.144:35455/bilibili/21842568?line=first
 
 
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQPxnAQZCQalbtMCjByND3GPmUwFZfgXypxRSAq=s48-c-k-c0x00ffffff-no-rj" group-title="Youtube",Rain ASMR
-http://192.168.10.1:35455/youtube/bdD3NH-_i-U?quality=1080
+http://192.168.10.1:35455/youtube/bdD3NH-_i-U?quality=720
 
 
 
 
-#EXTINF:-1 tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_3fe68a352dc44d5d95e452771fd904b1" group-title="抖音", 旭旭宝宝
+#EXTINF:-1,tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f246f34fbc1f4da300834745a9dfa0fa.jpeg" group-title="抖音",旭旭宝宝
 http://192.168.3.144:35455/douyin/660292215268?stream=hls
 
 
