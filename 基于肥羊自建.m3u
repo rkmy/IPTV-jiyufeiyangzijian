@@ -44,6 +44,8 @@ http://192.168.3.144:35455/douyu/288016
 http://192.168.3.144:35455/douyu/9408500
 
 
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/3b/0c1deb1298b5a2904fa4173addd4fd_180_135.jpg" group-title="虎牙-英雄联盟",英雄联盟赛事
+http://192.168.3.144:35455/huya/s4k
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/cb/ab41300582958653660b6620e05fd1_180_135.jpg" group-title="虎牙-王者荣耀",LING-树叶
 http://192.168.3.144:35455/huya/ye4655
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/b9/b6824c9d5593f03f5b5c4f71189023_180_135.jpg" group-title="虎牙-王者荣耀",张大仙
