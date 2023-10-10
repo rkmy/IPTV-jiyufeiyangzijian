@@ -53,6 +53,8 @@ http://192.168.3.144:35455/huya/522222
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/0b/5641de90da1f0f9358b71ff74c4571_180_135.jpg" group-title="虎牙-娱乐天地",天皓-宝藏女孩
 http://192.168.3.144:35455/huya/24776175
 
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/544c89e68f2b1f12ffcbb8b3c062a3328e8692d9.jpg" group-title="哔哩哔哩-赛事", 哔哩哔哩英雄联盟赛事
+http://192.168.3.144:35455/bilibili/86001?line=first
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg" group-title="哔哩哔哩-户外", 极客湾Geekerwan
 http://192.168.3.144:35455/bilibili/544843?line=first
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/0d9d456607b880d2767513dcf65f43c9d82dadea.jpg" group-title="哔哩哔哩-英雄联盟", 菠萝赛东°
