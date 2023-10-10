@@ -1,5 +1,7 @@
 #EXTM3U
 
+
+
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/1ab463fdaf4b4e79a3d90f52a17c270d_big.jpg" group-title="斗鱼-炉石传说",异灵术老师
 http://192.168.3.144:35455/douyu/93589
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201910/54c8b6e4868041b1b1dc39776c110850_big.jpg" group-title="斗鱼-炉石传说",恩基爱萌萌哒的狗贼
@@ -44,8 +46,9 @@ http://192.168.3.144:35455/douyu/288016
 http://192.168.3.144:35455/douyu/9408500
 
 
+
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/3b/0c1deb1298b5a2904fa4173addd4fd_180_135.jpg" group-title="虎牙-英雄联盟",英雄联盟赛事
-http://192.168.3.144:35455/huya/s4k
+http://192.168.3.144:35455/huya/s4k?quality=20000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/cb/ab41300582958653660b6620e05fd1_180_135.jpg" group-title="虎牙-王者荣耀",LING-树叶
 http://192.168.3.144:35455/huya/ye4655
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/b9/b6824c9d5593f03f5b5c4f71189023_180_135.jpg" group-title="虎牙-王者荣耀",张大仙
@@ -54,6 +57,8 @@ http://192.168.3.144:35455/huya/688
 http://192.168.3.144:35455/huya/522222
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/0b/5641de90da1f0f9358b71ff74c4571_180_135.jpg" group-title="虎牙-娱乐天地",天皓-宝藏女孩
 http://192.168.3.144:35455/huya/24776175
+
+
 
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/544c89e68f2b1f12ffcbb8b3c062a3328e8692d9.jpg" group-title="哔哩哔哩-英雄联盟", 哔哩哔哩英雄联盟赛事
 http://192.168.3.144:35455/bilibili/10?quality=20000
@@ -96,7 +101,6 @@ http://192.168.3.144:35455/bilibili/21842568?line=first
 
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQPxnAQZCQalbtMCjByND3GPmUwFZfgXypxRSAq=s48-c-k-c0x00ffffff-no-rj" group-title="Youtube",Rain ASMR
 http://192.168.10.1:35455/youtube/bdD3NH-_i-U?quality=720
-
 
 
 
