@@ -96,6 +96,14 @@ http://192.168.3.144:35455/bilibili/22566226?line=first
 http://192.168.3.144:35455/bilibili/6966366?line=first
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/2e62f48f779bc5511f3e056f98fd5acbdc356f3f.jpg" group-title="哔哩哔哩-主机游戏", 我是买爆哥
 http://192.168.3.144:35455/bilibili/21842568?line=first
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/4caedf9a42fb73bf68db2bfc7b4792494ba01e8f.jpg" group-title="哔哩哔哩-电台", 花椒糯米糍
+http://192.168.3.144:35455/bilibili/14879810?line=first
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/fe0512861d182b81e2ea0f4a5dbb4b27b3309bef.jpg" group-title="哔哩哔哩-聊天热聊", __小黄瓜__
+http://192.168.3.144:35455/bilibili/443?line=first
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/81c50ccad155cd86f2516ba7cdf7041be42e6dc5.jpg" group-title="哔哩哔哩-主机游戏", 克利咕咕兰
+http://192.168.3.144:35455/bilibili/51864?line=first
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/f2c00b1204e4476b4790c28c0e7732fbd77ed759.jpg" group-title="哔哩哔哩-聊天热聊", 是Sumimi呀
+http://192.168.3.144:35455/bilibili/81115?line=first
 
 
 
