@@ -114,6 +114,10 @@ http://192.168.10.1:35455/youtube/bdD3NH-_i-U?quality=720
 http://192.168.3.144:35455/douyin/660292215268?stream=hls
 #EXTINF:-1,tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_111927c77819f9cbd18444593562588a.jpeg" group-title="抖音",小悔别马枪
 http://192.168.3.144:35455/douyin/177897637709?stream=hls
+#EXTINF:-1,tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_34583dc5dc55d5983f8a57fafcbceb6d.jpeg" group-title="抖音",东方甄选
+http://192.168.3.144:35455/douyin/80017709309?stream=hls
+#EXTINF:-1,tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0eb7d4b8f5460dca2d63036504e5cc1e.jpeg" group-title="抖音",东方甄选之图书
+http://192.168.3.144:35455/douyin/660058021558?stream=hls
 
 
 
