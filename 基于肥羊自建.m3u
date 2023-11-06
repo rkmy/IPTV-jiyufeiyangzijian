@@ -85,7 +85,7 @@ http://192.168.3.144:35455/bilibili/21737720?line=first
 
 
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/7a68b7ff352162f68309c0099ba6942e35458006.jpg" group-title="哔哩哔哩-游戏", 薯条_Official
-http://192.168.3.144:35455/bilibili/22803603?line=first
+http://192.168.3.144:35455/bilibili/22803603?quality=20000
 
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/fe0512861d182b81e2ea0f4a5dbb4b27b3309bef.jpg" group-title="哔哩哔哩-视频聊天", __小黄瓜__
 http://192.168.3.144:35455/bilibili/433?line=first
