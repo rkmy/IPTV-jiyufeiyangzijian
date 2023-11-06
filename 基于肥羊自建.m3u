@@ -83,9 +83,9 @@ http://192.168.3.144:35455/bilibili/3325?line=first
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/3e0791b36d1034b24e4cee8827dee6deb0483b67.jpg" group-title="哔哩哔哩-唱见电台", 大肉嘎
 http://192.168.3.144:35455/bilibili/21737720?line=first
 
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/7a68b7ff352162f68309c0099ba6942e35458006.jpg" group-title="哔哩哔哩-电子榨菜", 薯条_Official
+http://192.168.3.144:35455/bilibili/22803603?line=first
 
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/7a68b7ff352162f68309c0099ba6942e35458006.jpg" group-title="哔哩哔哩-游戏", 薯条_Official
-http://192.168.3.144:35455/bilibili/22803603?quality=20000
 
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/fe0512861d182b81e2ea0f4a5dbb4b27b3309bef.jpg" group-title="哔哩哔哩-视频聊天", __小黄瓜__
 http://192.168.3.144:35455/bilibili/433?line=first
@@ -105,8 +105,6 @@ http://192.168.3.144:35455/bilibili/14879810?line=first
 http://192.168.3.144:35455/bilibili/51864?line=first
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/f2c00b1204e4476b4790c28c0e7732fbd77ed759.jpg" group-title="哔哩哔哩-聊天热聊", 是Sumimi呀
 http://192.168.3.144:35455/bilibili/81115?line=first
-
-
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/1b12d271b6e64b7771ff7a68730698c62bc10f61.jpg" group-title="哔哩哔哩-电子榨菜", 空山o鸟语
 http://192.168.3.144:35455/bilibili/23561920?line=first
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/edc1e285873e5ea3713f8295f8077a904fc8c30d.jpg" group-title="哔哩哔哩-独立游戏", 苏安安Susanne
