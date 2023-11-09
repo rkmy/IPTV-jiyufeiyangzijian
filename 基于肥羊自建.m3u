@@ -55,8 +55,6 @@ http://192.168.3.144:35455/huya/ye4655
 http://192.168.3.144:35455/huya/688
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/d8/6844f976f2ca969a4db540d52253a6_180_135.jpg" group-title="虎牙-英雄联盟",药水哥
 http://192.168.3.144:35455/huya/522222
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/0b/5641de90da1f0f9358b71ff74c4571_180_135.jpg" group-title="虎牙-娱乐天地",天皓-宝藏女孩
-http://192.168.3.144:35455/huya/24776175
 
 
 
@@ -82,11 +80,6 @@ http://192.168.3.144:35455/bilibili/1393938?line=first
 http://192.168.3.144:35455/bilibili/3325?line=first
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/3e0791b36d1034b24e4cee8827dee6deb0483b67.jpg" group-title="哔哩哔哩-唱见电台", 大肉嘎
 http://192.168.3.144:35455/bilibili/21737720?line=first
-
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/7a68b7ff352162f68309c0099ba6942e35458006.jpg" group-title="哔哩哔哩-电子榨菜", 薯条_Official
-http://192.168.3.144:35455/bilibili/22803603?line=first
-
-
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/fe0512861d182b81e2ea0f4a5dbb4b27b3309bef.jpg" group-title="哔哩哔哩-视频聊天", __小黄瓜__
 http://192.168.3.144:35455/bilibili/433?line=first
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/916be464ce71a4ad70b81795a9a71d980cb566c1.jpg" group-title="哔哩哔哩-主机游戏", DioTV
