@@ -118,6 +118,12 @@ http://192.168.3.6:35455/douyin/177897637709?stream=hls
 http://192.168.3.6:35455/douyin/80017709309?stream=hls
 #EXTINF:-1,tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0eb7d4b8f5460dca2d63036504e5cc1e.jpeg" group-title="抖音",东方甄选之图书
 http://192.168.3.6:35455/douyin/660058021558?stream=hls
+#EXTINF:-1,tvg-logo="https://p6.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_23a19f8218318a784d98ed00b8bc7de3.jpeg" group-title="抖音",与辉同行
+http://192.168.3.6:35455/douyin/646454278948?stream=hls
+#EXTINF:-1,tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ff009402bd594aa0cd9cba0e3a509d4f.jpeg" group-title="抖音",交个朋友直播间
+http://192.168.3.6:35455/douyin/168465302284?stream=hls
+
+
 
 
 
