@@ -109,7 +109,8 @@ http://192.168.3.20:35455/bilibili/23158878?line=first
 http://192.168.10.1:35455/youtube/bdD3NH-_i-U?quality=720
 
 
-
+#EXTINF:-1,tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a51e7b37537588d415287ffdb54f5fb5.jpeg" group-title="抖音",刘飞儿Faye
+http://192.168.3.20:35455/douyin/769667829224?stream=hls
 #EXTINF:-1,tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f246f34fbc1f4da300834745a9dfa0fa.jpeg" group-title="抖音",旭旭宝宝
 http://192.168.3.20:35455/douyin/660292215268?stream=hls
 #EXTINF:-1,tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_111927c77819f9cbd18444593562588a.jpeg" group-title="抖音",小悔别马枪
