@@ -46,10 +46,12 @@ http://192.168.3.20:35455/douyu/96291
 
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/3b/0c1deb1298b5a2904fa4173addd4fd_180_135.jpg" group-title="虎牙-英雄联盟",英雄联盟赛事
 http://192.168.3.20:35455/huya/s4k?quality=20000
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/cb/ab41300582958653660b6620e05fd1_180_135.jpg" group-title="虎牙-王者荣耀",LING-树叶
-http://192.168.3.20:35455/huya/ye4655
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/05/c80a80778a4af30ca00e8533c32c4f_180_135.jpg" group-title="虎牙-炉石传说",驴鸽LvGe
 http://192.168.3.20:35455/huya/910323
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1066/c6/c7842e28339e0cd8c3d0473579b956_180_135.jpg" group-title="虎牙-炉石传说",老中医
+http://192.168.3.20:35455/huya/599934
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/cb/ab41300582958653660b6620e05fd1_180_135.jpg" group-title="虎牙-王者荣耀",LING-树叶
+http://192.168.3.20:35455/huya/ye4655
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/d8/6844f976f2ca969a4db540d52253a6_180_135.jpg" group-title="虎牙-英雄联盟",药水哥
 http://192.168.3.20:35455/huya/522222
 
