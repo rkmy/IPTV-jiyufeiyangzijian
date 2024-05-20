@@ -23,8 +23,8 @@ http://192.168.3.20:35455/douyu/71415
 http://192.168.3.20:35455/douyu/156277
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/c36c850e141846da95f5a781c416a2f1_big.jpg" group-title="斗鱼-主机游戏",超级小桀
 http://192.168.3.20:35455/douyu/74751
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/781508179eb44dc394fa171ebf441892_big.jpg" group-title="斗鱼-主机游戏",真栗
-http://192.168.3.20:35455/douyu/3187637
+
+
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202303/29956c3d157a49449e4070b1e105aa19_big.jpg" group-title="斗鱼-娱乐天地",大肉嘎233
 http://192.168.3.20:35455/douyu/1607787
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/84616b06512c4e2bad81c37d8d3e3db8_big.jpg" group-title="斗鱼-游戏女神",呆妹儿小霸王
@@ -59,6 +59,8 @@ http://192.168.3.20:35455/huya/522222
 
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/544c89e68f2b1f12ffcbb8b3c062a3328e8692d9.jpg" group-title="哔哩哔哩-英雄联盟", 哔哩哔哩英雄联盟赛事
 http://192.168.3.20:35455/bilibili/10?quality=20000
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/eebb406832f0de56b0c057700dd574eaa86b7461.jpg" group-title="哔哩哔哩-无畏契约", Stan李昂
+http://192.168.3.20:35455/bilibili/8385390?line=first
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg" group-title="哔哩哔哩-户外", 极客湾Geekerwan
 http://192.168.3.20:35455/bilibili/544843?line=first
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/0d9d456607b880d2767513dcf65f43c9d82dadea.jpg" group-title="哔哩哔哩-英雄联盟", 菠萝赛东°
