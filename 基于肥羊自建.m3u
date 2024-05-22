@@ -19,6 +19,8 @@ http://192.168.3.20:35455/douyu/101
 http://192.168.3.20:35455/douyu/22222
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/002/48/83/16_avatar_middle.jpg" group-title="斗鱼-主机游戏",寅子
 http://192.168.3.20:35455/douyu/71415
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202308/2306c32f781f4a99a9a1cd084ea279fb_big.jpg" group-title="斗鱼-主机游戏",童猪啊i
+http://192.168.3.20:35455/douyu/945159
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/f84ce4b7e1684b1793a700ea7df86e68_big.jpg" group-title="斗鱼-主机游戏",女流66
 http://192.168.3.20:35455/douyu/156277
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/c36c850e141846da95f5a781c416a2f1_big.jpg" group-title="斗鱼-主机游戏",超级小桀
@@ -50,10 +52,11 @@ http://192.168.3.20:35455/huya/s4k?quality=20000
 http://192.168.3.20:35455/huya/910323
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1066/c6/c7842e28339e0cd8c3d0473579b956_180_135.jpg" group-title="虎牙-炉石传说",老中医
 http://192.168.3.20:35455/huya/599934
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1023/ef/a5fb3d71052fdf5d0f70ba9da7c4bb_180_135.jpg" group-title="虎牙-炉石传说",太极剑
+http://192.168.3.20:35455/huya/455315
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/cb/ab41300582958653660b6620e05fd1_180_135.jpg" group-title="虎牙-王者荣耀",LING-树叶
 http://192.168.3.20:35455/huya/ye4655
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/d8/6844f976f2ca969a4db540d52253a6_180_135.jpg" group-title="虎牙-英雄联盟",药水哥
-http://192.168.3.20:35455/huya/522222
+
 
 
 
