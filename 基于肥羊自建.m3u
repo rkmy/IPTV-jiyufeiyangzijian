@@ -71,7 +71,7 @@ http://192.168.3.20:35455/huya/35399c
 http://192.168.3.20:35455/bilibili/10?quality=20000
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/eebb406832f0de56b0c057700dd574eaa86b7461.jpg" group-title="哔哩哔哩-无畏契约", Stan李昂
 http://192.168.3.20:35455/bilibili/8385390?line=first
-#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg" group-title="哔哩哔哩-户外", 极客湾Geekerwan
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg" group-title="哔哩哔哩-聊天交友", 极客湾Geekerwan
 http://192.168.3.20:35455/bilibili/544843?line=first
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/0d9d456607b880d2767513dcf65f43c9d82dadea.jpg" group-title="哔哩哔哩-英雄联盟", 菠萝赛东°
 http://192.168.3.20:35455/bilibili/5520?line=first
