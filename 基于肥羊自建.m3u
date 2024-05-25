@@ -135,6 +135,8 @@ http://192.168.3.20:35455/douyin/722767806407?stream=hls
 http://192.168.3.20:35455/douyin/769667829224?stream=hls
 #EXTINF:-1,tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f246f34fbc1f4da300834745a9dfa0fa.jpeg" group-title="抖音",旭旭宝宝
 http://192.168.3.20:35455/douyin/660292215268?stream=hls
+#EXTINF:-1,tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_087fdac3f8516c174e85a36a65039dbb.jpeg" group-title="抖音",SnowKiss_雪妍
+http://192.168.3.20:35455/douyin/6996489259?stream=hls
 #EXTINF:-1,tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_a09a001cbe87a5ffee25.jpeg" group-title="抖音",张大仙
 http://192.168.3.20:35455/douyin/63592101250?stream=hls
 #EXTINF:-1,tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_111927c77819f9cbd18444593562588a.jpeg" group-title="抖音",小悔别马枪
