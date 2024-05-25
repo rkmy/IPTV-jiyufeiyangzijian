@@ -49,7 +49,6 @@ http://192.168.3.20:35455/douyu/288016
 http://192.168.3.20:35455/douyu/96291
 
 
-
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/3b/0c1deb1298b5a2904fa4173addd4fd_180_135.jpg" group-title="虎牙-英雄联盟",英雄联盟赛事
 http://192.168.3.20:35455/huya/s4k?quality=20000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/05/c80a80778a4af30ca00e8533c32c4f_180_135.jpg" group-title="虎牙-炉石传说",驴鸽LvGe
@@ -66,6 +65,7 @@ http://192.168.3.20:35455/huya/100270
 http://192.168.3.20:35455/huya/970824
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/43/8f981aba30daaa869d253e99f43b2f_180_135.jpg" group-title="虎牙-炉石传说",奶粉的日常
 http://192.168.3.20:35455/huya/35399c
+
 
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/544c89e68f2b1f12ffcbb8b3c062a3328e8692d9.jpg" group-title="哔哩哔哩-英雄联盟", 哔哩哔哩英雄联盟赛事
 http://192.168.3.20:35455/bilibili/10?quality=20000
@@ -101,7 +101,7 @@ http://192.168.3.20:35455/bilibili/4038332?line=first
 http://192.168.3.20:35455/bilibili/22566226?line=first
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/54a71a6baacd647c536a85bf4faf2d328248962d.jpg" group-title="哔哩哔哩-萌宠", 酒酿大丸子
 http://192.168.3.20:35455/bilibili/6966366?line=first
-#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/2e62f48f779bc5511f3e056f98fd5acbdc356f3f.jpg" group-title="哔哩哔哩-主机游戏", 我是买爆哥
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/2e62f48f779bc5511f3e056f98fd5acbdc356f3f.jpg" group-title="哔哩哔哩-电子榨菜", 我是买爆哥
 http://192.168.3.20:35455/bilibili/21842568?line=first
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/4caedf9a42fb73bf68db2bfc7b4792494ba01e8f.jpg" group-title="哔哩哔哩-电台", 花椒糯米糍
 http://192.168.3.20:35455/bilibili/14879810?line=first
@@ -113,7 +113,14 @@ http://192.168.3.20:35455/bilibili/81115?line=first
 http://192.168.3.20:35455/bilibili/23561920?line=first
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/edc1e285873e5ea3713f8295f8077a904fc8c30d.jpg" group-title="哔哩哔哩-独立游戏", 苏安安Susanne
 http://192.168.3.20:35455/bilibili/23158878?line=first
-
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/3b59fb5c73d1de935acab4447f3f000e1aa783f1.jpg" group-title="哔哩哔哩-社科法律心理", 小Q不是导盲犬
+http://192.168.3.20:35455/bilibili/22549323?line=first
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/b1ea85be05e67e29dcc232bf821f221870f77384.jpg" group-title="哔哩哔哩-社科法律心理", 真的想不出名儿了
+http://192.168.3.20:35455/bilibili/4195167?line=first
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/1d9b16f28782dd1b397b1ca953cb5bf8f4359645.jpg" group-title="哔哩哔哩-社科法律心理", 老林的情感研究室
+http://192.168.3.20:35455/bilibili/23927009?line=first
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/5301cf5e1930e693343756b22186e6edd0f8ade0.jpg" group-title="哔哩哔哩-萌宅领域", 一只奶糖鸭
+http://192.168.3.20:35455/bilibili/11739194?line=first
 
 
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQPxnAQZCQalbtMCjByND3GPmUwFZfgXypxRSAq=s48-c-k-c0x00ffffff-no-rj" group-title="Youtube",Rain ASMR
@@ -136,14 +143,4 @@ http://192.168.3.20:35455/douyin/660058021558?stream=hls
 http://192.168.3.20:35455/douyin/646454278948?stream=hls
 #EXTINF:-1,tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ff009402bd594aa0cd9cba0e3a509d4f.jpeg" group-title="抖音",交个朋友直播间
 http://192.168.3.20:35455/douyin/168465302284?stream=hls
-
-
-
-
-
-
-
-
-
-
 
