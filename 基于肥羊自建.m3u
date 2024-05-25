@@ -54,11 +54,14 @@ http://192.168.3.20:35455/huya/910323
 http://192.168.3.20:35455/huya/599934
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1023/ef/a5fb3d71052fdf5d0f70ba9da7c4bb_180_135.jpg" group-title="虎牙-炉石传说",太极剑
 http://192.168.3.20:35455/huya/455315
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/cb/ab41300582958653660b6620e05fd1_180_135.jpg" group-title="虎牙-王者荣耀",LING-树叶
-http://192.168.3.20:35455/huya/ye4655
-
-
-
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/ca/85bab76cc83a7feac8fa4f8a7fef31_180_135.jpg" group-title="虎牙-炉石传说",春哥再就业
+http://192.168.3.20:35455/huya/chunge
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1019/ee/ffabf13c4cc3effa9398c2859ac9c8_180_135.jpg" group-title="虎牙-炉石传说",瓦莉拉
+http://192.168.3.20:35455/huya/100270
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1099/e4/824a749b425bfc9ac2f681443b3a6d_180_135.jpg" group-title="虎牙-炉石传说",夏布去
+http://192.168.3.20:35455/huya/970824
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/43/8f981aba30daaa869d253e99f43b2f_180_135.jpg" group-title="虎牙-炉石传说",奶粉的日常
+http://192.168.3.20:35455/huya/35399c
 
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/544c89e68f2b1f12ffcbb8b3c062a3328e8692d9.jpg" group-title="哔哩哔哩-英雄联盟", 哔哩哔哩英雄联盟赛事
 http://192.168.3.20:35455/bilibili/10?quality=20000
