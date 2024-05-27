@@ -131,6 +131,8 @@ http://192.168.10.1:35455/youtube/bdD3NH-_i-U?quality=720
 
 #EXTINF:-1,tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_318b004ba8a63d7323e08b483d7e5bbd.jpeg" group-title="抖音",张雪峰讲升学规划
 http://192.168.3.20:35455/douyin/722767806407?stream=hls
+#EXTINF:-1,tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a4d728e87ba7850d82afb6463803d6f7.jpeg" group-title="抖音",张雪峰讲家庭教育
+http://192.168.3.20:35455/douyin/839498863828?stream=hls
 #EXTINF:-1,tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a51e7b37537588d415287ffdb54f5fb5.jpeg" group-title="抖音",刘飞儿Faye
 http://192.168.3.20:35455/douyin/769667829224?stream=hls
 #EXTINF:-1,tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f246f34fbc1f4da300834745a9dfa0fa.jpeg" group-title="抖音",旭旭宝宝
