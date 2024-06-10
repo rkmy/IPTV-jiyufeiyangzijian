@@ -107,6 +107,8 @@ http://192.168.3.20:35455/bilibili/21842568?line=first
 http://192.168.3.20:35455/bilibili/14879810?line=first
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/81c50ccad155cd86f2516ba7cdf7041be42e6dc5.jpg" group-title="哔哩哔哩-主机游戏", 克利咕咕兰
 http://192.168.3.20:35455/bilibili/51864?line=first
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/360aa261103416e5e05524f2e5d521d422248e70.jpg" group-title="哔哩哔哩-主机游戏", 高寒时薪十块
+http://192.168.3.20:35455/bilibili/440006?line=first
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/f2c00b1204e4476b4790c28c0e7732fbd77ed759.jpg" group-title="哔哩哔哩-聊天热聊", 是Sumimi呀
 http://192.168.3.20:35455/bilibili/81115?line=first
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/1b12d271b6e64b7771ff7a68730698c62bc10f61.jpg" group-title="哔哩哔哩-电子榨菜", 空山o鸟语
