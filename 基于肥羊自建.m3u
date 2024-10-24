@@ -70,63 +70,65 @@ http://192.168.5.6:35455/huya/527988
 
 
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/544c89e68f2b1f12ffcbb8b3c062a3328e8692d9.jpg" group-title="哔哩哔哩-英雄联盟", 哔哩哔哩英雄联盟赛事
-http://192.168.5.6:35455/bilibili/10?quality=20000
+http://192.168.5.6:35455/bilibili/10?platform=hls&line=first&quality=4
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/fc1e5aeeeb29c661c4f665cb089f2939c9b159c7.jpg" group-title="哔哩哔哩-颜值", 真栗
+http://192.168.5.6:35455/bilibili/883263?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/eebb406832f0de56b0c057700dd574eaa86b7461.jpg" group-title="哔哩哔哩-无畏契约", Stan李昂
-http://192.168.5.6:35455/bilibili/8385390?line=first
+http://192.168.5.6:35455/bilibili/8385390?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg" group-title="哔哩哔哩-聊天交友", 极客湾Geekerwan
-http://192.168.5.6:35455/bilibili/544843?line=first
+http://192.168.5.6:35455/bilibili/544843?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/0d9d456607b880d2767513dcf65f43c9d82dadea.jpg" group-title="哔哩哔哩-英雄联盟", 菠萝赛东°
-http://192.168.5.6:35455/bilibili/5520?line=first
+http://192.168.5.6:35455/bilibili/5520?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/d442b405ea18f1fff815084a73fe3a3abb5c1424.gif" group-title="哔哩哔哩-萌宅领域", 小缘
-http://192.168.5.6:35455/bilibili/196?line=first
+http://192.168.5.6:35455/bilibili/196?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/bfeefb35207daf0c0dd86c3ba97b0690cb7a606d.jpg" group-title="哔哩哔哩-综合棋牌", 棋手战鹰
-http://192.168.5.6:35455/bilibili/23141761?line=first
+http://192.168.5.6:35455/bilibili/23141761?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/927c4a3190e9372c160f1768925b0f2b3604264e.jpg" group-title="哔哩哔哩-综合棋牌", 柯洁
-http://192.168.5.6:35455/bilibili/23555200?line=first
+http://192.168.5.6:35455/bilibili/23555200?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/ddcf10852e410b4c57f0f23e7e81edde2c6edd35.jpg" group-title="哔哩哔哩-主机游戏", Xbox盒子君
-http://192.168.5.6:35455/bilibili/865961?line=first
+http://192.168.5.6:35455/bilibili/865961?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/ec008e32064705c576f3ffd73d20288e441d945f.jpg" group-title="哔哩哔哩-主机游戏", 远古时代装机猿
-http://192.168.5.6:35455/bilibili/1361615?line=first
+http://192.168.5.6:35455/bilibili/1361615?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/4a9e95a8f07d5b4bedc9d8d7ab623d88d917f484.jpg" group-title="哔哩哔哩-主机游戏", 艾森巴赫
-http://192.168.5.6:35455/bilibili/1393938?line=first
+http://192.168.5.6:35455/bilibili/1393938?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/608b64c3120dbe2e7ccbc244fdf5b9532996e960.jpg" group-title="哔哩哔哩-舞见", 小深深儿
-http://192.168.5.6:35455/bilibili/3325?line=first
+http://192.168.5.6:35455/bilibili/3325?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/3e0791b36d1034b24e4cee8827dee6deb0483b67.jpg" group-title="哔哩哔哩-唱见电台", 大肉嘎
-http://192.168.5.6:35455/bilibili/21737720?line=first
+http://192.168.5.6:35455/bilibili/21737720?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/fe0512861d182b81e2ea0f4a5dbb4b27b3309bef.jpg" group-title="哔哩哔哩-视频聊天", __小黄瓜__
-http://192.168.5.6:35455/bilibili/433?line=first
+http://192.168.5.6:35455/bilibili/433?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/916be464ce71a4ad70b81795a9a71d980cb566c1.jpg" group-title="哔哩哔哩-主机游戏", DioTV
-http://192.168.5.6:35455/bilibili/9900640?line=first
+http://192.168.5.6:35455/bilibili/9900640?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/528039aed3d8f09e46a22ff9f1deaeacb464d765.jpg" group-title="哔哩哔哩-科技", 大康评测
-http://192.168.5.6:35455/bilibili/4038332?line=first
+http://192.168.5.6:35455/bilibili/4038332?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/dee7aec1100776af47c918e13fe1846ab3c4222e.jpg" group-title="哔哩哔哩-社科法律心理", 爱思考的老梨
-http://192.168.5.6:35455/bilibili/22566226?line=first
+http://192.168.5.6:35455/bilibili/22566226?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/54a71a6baacd647c536a85bf4faf2d328248962d.jpg" group-title="哔哩哔哩-萌宠", 酒酿大丸子
-http://192.168.5.6:35455/bilibili/6966366?line=first
+http://192.168.5.6:35455/bilibili/6966366?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/2e62f48f779bc5511f3e056f98fd5acbdc356f3f.jpg" group-title="哔哩哔哩-电子榨菜", 我是买爆哥
-http://192.168.5.6:35455/bilibili/21842568?line=first
+http://192.168.5.6:35455/bilibili/21842568?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/4caedf9a42fb73bf68db2bfc7b4792494ba01e8f.jpg" group-title="哔哩哔哩-电台", 花椒糯米糍
-http://192.168.5.6:35455/bilibili/14879810?line=first
+http://192.168.5.6:35455/bilibili/14879810?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/81c50ccad155cd86f2516ba7cdf7041be42e6dc5.jpg" group-title="哔哩哔哩-主机游戏", 克利咕咕兰
-http://192.168.5.6:35455/bilibili/51864?line=first
+http://192.168.5.6:35455/bilibili/51864?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/360aa261103416e5e05524f2e5d521d422248e70.jpg" group-title="哔哩哔哩-主机游戏", 高寒时薪十块
-http://192.168.5.6:35455/bilibili/440006?line=first
+http://192.168.5.6:35455/bilibili/440006?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/f2c00b1204e4476b4790c28c0e7732fbd77ed759.jpg" group-title="哔哩哔哩-聊天热聊", 是Sumimi呀
-http://192.168.5.6:35455/bilibili/81115?line=first
+http://192.168.5.6:35455/bilibili/81115?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/1b12d271b6e64b7771ff7a68730698c62bc10f61.jpg" group-title="哔哩哔哩-电子榨菜", 空山o鸟语
-http://192.168.5.6:35455/bilibili/23561920?line=first
+http://192.168.5.6:35455/bilibili/23561920?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/edc1e285873e5ea3713f8295f8077a904fc8c30d.jpg" group-title="哔哩哔哩-独立游戏", 苏安安Susanne
-http://192.168.5.6:35455/bilibili/23158878?line=first
+http://192.168.5.6:35455/bilibili/23158878?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/3b59fb5c73d1de935acab4447f3f000e1aa783f1.jpg" group-title="哔哩哔哩-社科法律心理", 小Q不是导盲犬
-http://192.168.5.6:35455/bilibili/22549323?line=first
+http://192.168.5.6:35455/bilibili/22549323?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/b1ea85be05e67e29dcc232bf821f221870f77384.jpg" group-title="哔哩哔哩-社科法律心理", 真的想不出名儿了
-http://192.168.5.6:35455/bilibili/4195167?line=first
+http://192.168.5.6:35455/bilibili/4195167?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/1d9b16f28782dd1b397b1ca953cb5bf8f4359645.jpg" group-title="哔哩哔哩-社科法律心理", 老林的情感研究室
-http://192.168.5.6:35455/bilibili/23927009?line=first
+http://192.168.5.6:35455/bilibili/23927009?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/5301cf5e1930e693343756b22186e6edd0f8ade0.jpg" group-title="哔哩哔哩-萌宅领域", 一只奶糖鸭
-http://192.168.5.6:35455/bilibili/11739194?line=first
+http://192.168.5.6:35455/bilibili/11739194?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/9ec5048c46361dd69bbeec126532ca684933b76a.jpg" group-title="哔哩哔哩-户外", 杀心成焚酱
-http://192.168.5.6:35455/bilibili/26122598?line=first
+http://192.168.5.6:35455/bilibili/26122598?platform=hls&line=first&quality=4
 
 
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQPxnAQZCQalbtMCjByND3GPmUwFZfgXypxRSAq=s48-c-k-c0x00ffffff-no-rj" group-title="Youtube",Rain ASMR
