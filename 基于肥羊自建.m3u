@@ -75,6 +75,14 @@ http://192.168.5.6:35455/huya/527988
 http://192.168.5.6:35455/bilibili/10?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/fc1e5aeeeb29c661c4f665cb089f2939c9b159c7.jpg" group-title="哔哩哔哩-颜值", 真栗
 http://192.168.5.6:35455/bilibili/883263?platform=hls&line=first&quality=4
+
+
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/a050c1d7e2de9dc20a0009a7580e6fca9c5f5512.jpg" group-title="哔哩哔哩-社会观察·财经", 清月已经不困了
+http://192.168.5.6:35455/bilibili/30929174?platform=hls&line=first&quality=4
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/88f7c106205d7c2064018fee5b6c8f6f5d31c0c9.jpg" group-title="哔哩哔哩-主机游戏", 糖七又是糖九
+http://192.168.5.6:35455/bilibili/1540734?platform=hls&line=first&quality=4
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/ab4dceb68e38c8166ef864902280ed329f13d619.jpg" group-title="哔哩哔哩-主机游戏", 鸡哥咕咕der
+http://192.168.5.6:35455/bilibili/886540?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/eebb406832f0de56b0c057700dd574eaa86b7461.jpg" group-title="哔哩哔哩-无畏契约", Stan李昂
 http://192.168.5.6:35455/bilibili/8385390?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg" group-title="哔哩哔哩-聊天交友", 极客湾Geekerwan
