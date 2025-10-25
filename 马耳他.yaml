@@ -1,0 +1,195 @@
+proxies:
+- name: 马耳他
+  type: vless
+  server: 193.227.99.214
+  port: 443
+  uuid: c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0
+  tls: true
+  servername: v033.ylkszy.eu.org
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: v033.ylkszy.eu.org
+  udp: true
+- name: 🇲🇹MT-171.22.254.17-0357
+  type: ss
+  server: 171.22.254.17
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🇲🇹MT-171.22.254.17-0357-1
+  type: ss
+  server: 171.22.254.17
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 美国_23-1
+  type: vless
+  server: 193.227.99.61
+  port: 2096
+  uuid: 12345678-1234-1234-1234-123456789123
+  tls: true
+  servername: vless.hubp.de
+  network: ws
+  ws-opts:
+    path: /snippets
+    headers:
+      Host: vless.hubp.de
+  udp: true
+- name: _12_1@11
+  type: ss
+  server: 171.22.254.17
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: no name:1717
+  type: ss
+  server: 171.22.254.17
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: no name:3461
+  type: ss
+  server: 171.22.254.17
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: -NJC1
+  type: ss
+  server: 171.22.254.17
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🇲🇹MT-171.22.254.17-5353
+  type: ss
+  server: 171.22.254.17
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🇲🇹MT-171.22.254.17-5353-1
+  type: ss
+  server: 171.22.254.17
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🇲🇹MT-171.22.254.17-5353-2
+  type: ss
+  server: 171.22.254.17
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🇲🇹MT-171.22.254.17-5353-3
+  type: ss
+  server: 171.22.254.17
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: da_051
+  type: vless
+  server: 193.227.99.61
+  port: 2096
+  uuid: 12345678-1234-1234-1234-123456789123
+  tls: true
+  servername: vless.hubp.de
+  network: ws
+  ws-opts:
+    path: /snippets
+    headers:
+      Host: vless.hubp.de
+  udp: true
+- name: q_1119
+  type: vless
+  server: 193.227.99.61
+  port: 2096
+  uuid: 12345678-1234-1234-1234-123456789123
+  tls: true
+  servername: vless.hubp.de
+  network: ws
+  ws-opts:
+    path: /snippets
+    headers:
+      Host: vless.hubp.de
+  udp: true
+- name: da_051-1
+  type: vless
+  server: 193.227.99.61
+  port: 2096
+  uuid: 12345678-1234-1234-1234-123456789123
+  tls: true
+  servername: vless.hubp.de
+  network: ws
+  ws-opts:
+    path: /snippets
+    headers:
+      Host: vless.hubp.de
+  udp: true
+- name: da_051-2
+  type: vless
+  server: 193.227.99.61
+  port: 2096
+  uuid: 12345678-1234-1234-1234-123456789123
+  tls: true
+  servername: vless.hubp.de
+  network: ws
+  ws-opts:
+    path: /snippets
+    headers:
+      Host: vless.hubp.de
+  udp: true
+- name: da_051-3
+  type: vless
+  server: 193.227.99.61
+  port: 2096
+  uuid: 12345678-1234-1234-1234-123456789123
+  tls: true
+  servername: vless.hubp.de
+  network: ws
+  ws-opts:
+    path: /snippets
+    headers:
+      Host: vless.hubp.de
+  udp: true
+- name: da_051-4
+  type: vless
+  server: 193.227.99.61
+  port: 2096
+  uuid: 12345678-1234-1234-1234-123456789123
+  tls: true
+  servername: vless.hubp.de
+  network: ws
+  ws-opts:
+    path: /snippets
+    headers:
+      Host: vless.hubp.de
+  udp: true
+- name: da_051-5
+  type: vless
+  server: 193.227.99.61
+  port: 2096
+  uuid: 12345678-1234-1234-1234-123456789123
+  tls: true
+  servername: vless.hubp.de
+  network: ws
+  ws-opts:
+    path: /snippets
+    headers:
+      Host: vless.hubp.de
+  udp: true
+- name: MT-171.22.254.17-5374 | 0.723MB
+  type: ss
+  server: 171.22.254.17
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true

@@ -1,0 +1,15 @@
+proxies:
+- name: 🔒 SS-TCP-NA 🇰🇪 KE-62.12.116.66:990
+  type: ss
+  server: 62.12.116.66
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🔒 SS-TCP-NA 🇰🇪 KE-62.12.116.66:990-1
+  type: ss
+  server: 62.12.116.66
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: f8f7aCzcPKbsF8p3
+  udp: true

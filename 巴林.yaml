@@ -1,0 +1,85 @@
+proxies:
+- name: 🔒 SS-TCP-NA 🇧🇭 BH-38.54.2.182:990
+  type: ss
+  server: 38.54.2.182
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🔒 SS-TCP-NA 🇧🇭 BH-157.241.84.78:443
+  type: ss
+  server: 157.241.84.78
+  port: 443
+  cipher: chacha20-ietf-poly1305
+  password: Bog0ELmMM9DSxDdQ
+  udp: true
+- name: 🔒 SS-TCP-NA 🇧🇭 BH-16.24.50.100:443
+  type: ss
+  server: 16.24.50.100
+  port: 443
+  cipher: chacha20-ietf-poly1305
+  password: Bog0ELmMM9DSxDdQ
+  udp: true
+- name: '@AblNet7 🇮🇷 نت ملی 🇧🇭'
+  type: ss
+  server: 154.205.146.153
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: '@AblNet7 🇮🇷 نت ملی 🇧🇭-1'
+  type: ss
+  server: 154.205.146.153
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: 🔒 SS-TCP-NA 🇧🇭 BH-16.24.50.100:443-1
+  type: ss
+  server: 16.24.50.100
+  port: 443
+  cipher: chacha20-ietf-poly1305
+  password: Bog0ELmMM9DSxDdQ
+  udp: true
+- name: 🔒 SS-TCP-NA 🇧🇭 BH-38.54.2.182:990-1
+  type: ss
+  server: 38.54.2.182
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🔒 SS-TCP-NA 🇧🇭 BH-157.241.84.78:443-1
+  type: ss
+  server: 157.241.84.78
+  port: 443
+  cipher: chacha20-ietf-poly1305
+  password: Bog0ELmMM9DSxDdQ
+  udp: true
+- name: '@AblNet7 🇮🇷 نت ملی 🇧🇭-2'
+  type: ss
+  server: 154.205.146.153
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: 🇧🇭 - BH - @freeOnlineVPN
+  type: ss
+  server: 154.205.146.153
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: '@AblNet7 🇮🇷 نت ملی 🇧🇭-3'
+  type: ss
+  server: 154.205.146.153
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: 🇧🇭 - BH - @freeOnlineVPN-1
+  type: ss
+  server: 154.205.146.153
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true

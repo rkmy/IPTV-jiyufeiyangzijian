@@ -1,0 +1,314 @@
+proxies:
+- name: 🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.94:2053
+  type: vless
+  server: 154.83.2.94
+  port: 2053
+  uuid: fe962226-fe1c-4391-a5ba-7b7c62adda19
+  tls: true
+  servername: am-tunnel-6fs.pages.dev
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: am-tunnel-6fs.pages.dev
+  udp: true
+- name: Seychelles
+  type: trojan
+  server: 154.83.2.200
+  port: 443
+  password: amclubs2024
+  sni: 154.83.2.200
+  udp: true
+  skip-cert-verify: false
+- name: 🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.54:2096
+  type: vless
+  server: 154.83.2.54
+  port: 2096
+  uuid: fe962226-fe1c-4391-a5ba-7b7c62adda19
+  tls: true
+  servername: am-tunnel-6fs.pages.dev
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: am-tunnel-6fs.pages.dev
+  udp: true
+- name: 🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.200:443
+  type: vless
+  server: 154.83.2.200
+  port: 443
+  uuid: fe962226-fe1c-4391-a5ba-7b7c62adda19
+  tls: true
+  servername: am-tunnel-6fs.pages.dev
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: am-tunnel-6fs.pages.dev
+  udp: true
+- name: 🇺🇸 www.85la.com 美国_5
+  type: vless
+  server: 154.83.2.167
+  port: 443
+  uuid: 401374e6-df77-41fb-f638-dad8184f175b
+  tls: true
+  servername: pqh23v4.hiddendom.shop
+  network: grpc
+  udp: true
+- name: 美国 182
+  type: vless
+  server: 154.83.2.167
+  port: 443
+  uuid: 401374e6-df77-41fb-f638-dad8184f175b
+  tls: true
+  servername: pqh23v4.hiddendom.shop
+  network: grpc
+  udp: true
+- name: 🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.94:2053-1
+  type: vless
+  server: 154.83.2.94
+  port: 2053
+  uuid: fe962226-fe1c-4391-a5ba-7b7c62adda19
+  tls: true
+  servername: am-tunnel-6fs.pages.dev
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: am-tunnel-6fs.pages.dev
+  udp: true
+- name: 🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.200:443-1
+  type: vless
+  server: 154.83.2.200
+  port: 443
+  uuid: fe962226-fe1c-4391-a5ba-7b7c62adda19
+  tls: true
+  servername: am-tunnel-6fs.pages.dev
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: am-tunnel-6fs.pages.dev
+  udp: true
+- name: 🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.54:2096-1
+  type: vless
+  server: 154.83.2.54
+  port: 2096
+  uuid: fe962226-fe1c-4391-a5ba-7b7c62adda19
+  tls: true
+  servername: am-tunnel-6fs.pages.dev
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: am-tunnel-6fs.pages.dev
+  udp: true
+- name: 🇵🇭|PH|@wxgqlfx|84
+  type: vless
+  server: 154.83.2.167
+  port: 443
+  uuid: 401374e6-df77-41fb-f638-dad8184f175b
+  tls: true
+  servername: pqh23v4.hiddendom.shop
+  network: grpc
+  udp: true
+- name: 美国 182-1
+  type: vless
+  server: 154.83.2.167
+  port: 443
+  uuid: 401374e6-df77-41fb-f638-dad8184f175b
+  tls: true
+  servername: pqh23v4.hiddendom.shop
+  network: grpc
+  udp: true
+- name: da_272
+  type: vless
+  server: 154.83.2.246
+  port: 443
+  uuid: dbb3c682-8564-4c02-aec9-23ecf7981820
+  tls: true
+  servername: arc-448.pages.dev
+  network: ws
+  ws-opts:
+    path: /api/v1#join---marambashi---join---marambashi---join---marambashi---join---marambashi?ed=2560
+    headers:
+      Host: arc-448.pages.dev
+  udp: true
+- name: q_0564
+  type: vless
+  server: 154.83.2.246
+  port: 443
+  uuid: dbb3c682-8564-4c02-aec9-23ecf7981820
+  tls: true
+  servername: arc-448.pages.dev
+  network: ws
+  ws-opts:
+    path: /api/v1#join---marambashi---join---marambashi---join---marambashi---join---marambashi?ed=2560
+    headers:
+      Host: arc-448.pages.dev
+  udp: true
+- name: q_0565
+  type: vless
+  server: 154.83.2.36
+  port: 2096
+  uuid: 019931aa-8cba-3a74-6c77-cb288ae52f2a
+  tls: true
+  servername: 0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn
+  network: ws
+  ws-opts:
+    path: /snippets
+    headers:
+      Host: 0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn
+  udp: true
+- name: q_0566
+  type: vless
+  server: 154.83.2.52
+  port: 2096
+  uuid: 12345678-1234-1234-1234-123456789123
+  tls: true
+  servername: saas.git.cloudns.org
+  network: ws
+  ws-opts:
+    path: /snippets
+    headers:
+      Host: saas.git.cloudns.org
+  udp: true
+- name: da_260
+  type: vless
+  server: 154.83.2.36
+  port: 2096
+  uuid: 019931aa-8cba-3a74-6c77-cb288ae52f2a
+  tls: true
+  servername: 0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn
+  network: ws
+  ws-opts:
+    path: /snippets
+    headers:
+      Host: 0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn
+  udp: true
+- name: da_272-1
+  type: vless
+  server: 154.83.2.246
+  port: 443
+  uuid: dbb3c682-8564-4c02-aec9-23ecf7981820
+  tls: true
+  servername: arc-448.pages.dev
+  network: ws
+  ws-opts:
+    path: /api/v1#join---marambashi---join---marambashi---join---marambashi---join---marambashi?ed=2560
+    headers:
+      Host: arc-448.pages.dev
+  udp: true
+- name: da_260-1
+  type: vless
+  server: 154.83.2.36
+  port: 2096
+  uuid: 019931aa-8cba-3a74-6c77-cb288ae52f2a
+  tls: true
+  servername: 0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn
+  network: ws
+  ws-opts:
+    path: /snippets
+    headers:
+      Host: 0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn
+  udp: true
+- name: da_272-2
+  type: vless
+  server: 154.83.2.246
+  port: 443
+  uuid: dbb3c682-8564-4c02-aec9-23ecf7981820
+  tls: true
+  servername: arc-448.pages.dev
+  network: ws
+  ws-opts:
+    path: /api/v1#join---marambashi---join---marambashi---join---marambashi---join---marambashi?ed=2560
+    headers:
+      Host: arc-448.pages.dev
+  udp: true
+- name: da_260-2
+  type: vless
+  server: 154.83.2.36
+  port: 2096
+  uuid: 019931aa-8cba-3a74-6c77-cb288ae52f2a
+  tls: true
+  servername: 0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn
+  network: ws
+  ws-opts:
+    path: /snippets
+    headers:
+      Host: 0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn
+  udp: true
+- name: da_272-3
+  type: vless
+  server: 154.83.2.246
+  port: 443
+  uuid: dbb3c682-8564-4c02-aec9-23ecf7981820
+  tls: true
+  servername: arc-448.pages.dev
+  network: ws
+  ws-opts:
+    path: /api/v1#join---marambashi---join---marambashi---join---marambashi---join---marambashi?ed=2560
+    headers:
+      Host: arc-448.pages.dev
+  udp: true
+- name: da_260-3
+  type: vless
+  server: 154.83.2.36
+  port: 2096
+  uuid: 019931aa-8cba-3a74-6c77-cb288ae52f2a
+  tls: true
+  servername: 0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn
+  network: ws
+  ws-opts:
+    path: /snippets
+    headers:
+      Host: 0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn
+  udp: true
+- name: da_272-4
+  type: vless
+  server: 154.83.2.246
+  port: 443
+  uuid: dbb3c682-8564-4c02-aec9-23ecf7981820
+  tls: true
+  servername: arc-448.pages.dev
+  network: ws
+  ws-opts:
+    path: /api/v1#join---marambashi---join---marambashi---join---marambashi---join---marambashi?ed=2560
+    headers:
+      Host: arc-448.pages.dev
+  udp: true
+- name: da_260-4
+  type: vless
+  server: 154.83.2.36
+  port: 2096
+  uuid: 019931aa-8cba-3a74-6c77-cb288ae52f2a
+  tls: true
+  servername: 0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn
+  network: ws
+  ws-opts:
+    path: /snippets
+    headers:
+      Host: 0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn
+  udp: true
+- name: da_272-5
+  type: vless
+  server: 154.83.2.246
+  port: 443
+  uuid: dbb3c682-8564-4c02-aec9-23ecf7981820
+  tls: true
+  servername: arc-448.pages.dev
+  network: ws
+  ws-opts:
+    path: /api/v1#join---marambashi---join---marambashi---join---marambashi---join---marambashi?ed=2560
+    headers:
+      Host: arc-448.pages.dev
+  udp: true
+- name: 美国 182-2
+  type: vless
+  server: 154.83.2.167
+  port: 443
+  uuid: 401374e6-df77-41fb-f638-dad8184f175b
+  tls: true
+  servername: pqh23v4.hiddendom.shop
+  network: grpc
+  udp: true

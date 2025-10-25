@@ -1,0 +1,71 @@
+proxies:
+- name: 🇨🇷CR-138.59.16.146-8706
+  type: ss
+  server: 138.59.16.146
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🇨🇷CR-138.59.16.146-8706-1
+  type: ss
+  server: 138.59.16.146
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: '@AblNet7 🇮🇷 نت ملی 🇨🇷'
+  type: ss
+  server: 145.14.131.99
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: 🇨🇷 哥斯达黎加1
+  type: ss
+  server: 145.14.131.99
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: US_youtube@资源分享师_17
+  type: ss
+  server: 145.14.131.99
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: '@AblNet7 🇮🇷 نت ملی 🇨🇷-1'
+  type: ss
+  server: 145.14.131.99
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: 🇨🇷CR-138.59.16.146-8735
+  type: ss
+  server: 138.59.16.146
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🇨🇷CR-138.59.16.146-8735-1
+  type: ss
+  server: 138.59.16.146
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: '@AblNet7 🇮🇷 نت ملی 🇨🇷-2'
+  type: ss
+  server: 145.14.131.99
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: '@AblNet7 🇮🇷 نت ملی 🇨🇷-3'
+  type: ss
+  server: 145.14.131.99
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true

@@ -1,0 +1,1247 @@
+proxies:
+- name: www.youneed.win-648
+  type: vmess
+  server: 172.64.194.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.194.13
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: www.youneed.win-596
+  type: vmess
+  server: 172.64.195.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: lg.v2ray20.xyz
+  udp: true
+- name: www.youneed.win-591
+  type: vmess
+  server: 172.64.194.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.194.13
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: 🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.195.195:443
+  type: vless
+  server: 172.64.195.195
+  port: 443
+  uuid: 2b3b9f3f-f8ca-4a97-f6e0-afcedfb7efb7
+  tls: true
+  servername: juzisg.zdzdzd.xyz
+  network: ws
+  ws-opts:
+    path: /juzi
+    headers:
+      Host: juzisg.zdzdzd.xyz
+  udp: true
+- name: www.youneed.win-494
+  type: vmess
+  server: 172.64.195.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: 🏁RELAY-172.64.194.76-0996
+  type: vmess
+  server: 172.64.194.76
+  port: 2095
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /github.com/Alvin9999
+    headers:
+      Host: ip11.6016725.xyz
+  udp: true
+- name: 🏁RELAY-172.64.195.80-8515
+  type: vmess
+  server: 172.64.195.80
+  port: 8080
+  uuid: f467f4da-2226-448d-a30d-463ef10548ac
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 172.64.195.80
+  udp: true
+- name: 🏁RELAY-172.64.194.98-8516
+  type: vmess
+  server: 172.64.194.98
+  port: 2095
+  uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /hgcefomn
+    headers:
+      Host: 172.64.194.98
+  udp: true
+- name: 🏁RELAY-172.64.194.234-8517
+  type: vmess
+  server: 172.64.194.234
+  port: 2095
+  uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /hgcefomn
+    headers:
+      Host: 172.64.194.234
+  udp: true
+- name: 🏁RELAY-172.64.194.76-0996-1
+  type: vmess
+  server: 172.64.194.76
+  port: 2095
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /github.com/Alvin9999
+    headers:
+      Host: ip11.6016725.xyz
+  udp: true
+- name: 🏁RELAY-172.64.195.80-8515-1
+  type: vmess
+  server: 172.64.195.80
+  port: 8080
+  uuid: f467f4da-2226-448d-a30d-463ef10548ac
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 172.64.195.80
+  udp: true
+- name: 🏁RELAY-172.64.194.98-8516-1
+  type: vmess
+  server: 172.64.194.98
+  port: 2095
+  uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /hgcefomn
+    headers:
+      Host: 172.64.194.98
+  udp: true
+- name: 🏁RELAY-172.64.194.234-8517-1
+  type: vmess
+  server: 172.64.194.234
+  port: 2095
+  uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /hgcefomn
+    headers:
+      Host: 172.64.194.234
+  udp: true
+- name: '@AblNet7 🇮🇷 نت ملی 🇨🇱'
+  type: ss
+  server: 154.205.153.107
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: '@AblNet7 🇮🇷 نت ملی 🇨🇱-1'
+  type: ss
+  server: 154.205.153.107
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1799-1
+  type: vmess
+  server: 172.64.195.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1734
+  type: vmess
+  server: 172.64.195.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇫🇷FR_1761
+  type: vmess
+  server: 172.64.194.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: 04/10免费节点|TG频道@kxswa_
+  type: vmess
+  server: 172.64.195.15
+  port: 443
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.195.15
+  network: ws
+  ws-opts:
+    path: /AUIKN8AU
+    headers:
+      Host: lg1.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1820-2
+  type: vmess
+  server: 172.64.194.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1781
+  type: vmess
+  server: 172.64.195.15
+  port: 443
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg1.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /AUIKN8AU
+    headers:
+      Host: lg1.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇫🇷FR_1796
+  type: vmess
+  server: 172.64.195.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: 🇺🇸 https://github.com/...____
+  type: vmess
+  server: 172.64.195.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: 🇺🇸-美国-172.64.194.13
+  type: vmess
+  server: 172.64.194.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.194.13
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: 美国_0410994
+  type: vmess
+  server: 172.64.195.10
+  port: 443
+  uuid: 40d496a6-ceeb-4096-baeb-4cc52b205621
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.195.10
+  network: ws
+  ws-opts:
+    path: /ECTCJ0DF
+    headers:
+      Host: 154.v2ray3.xyz
+  udp: true
+- name: 美国_0410995
+  type: vmess
+  server: 172.64.194.10
+  port: 443
+  uuid: 40d496a6-ceeb-4096-baeb-4cc52b205621
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.194.10
+  network: ws
+  ws-opts:
+    path: /ECTCJ0DF
+    headers:
+      Host: 154.v2ray3.xyz
+  udp: true
+- name: 4Jadi-982
+  type: vmess
+  server: 172.64.194.15
+  port: 443
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.194.15
+  network: ws
+  ws-opts:
+    path: /AUIKN8AU
+    headers:
+      Host: lg1.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1785-1
+  type: vmess
+  server: 172.64.195.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: RELAY-172.64.194.15-01...
+  type: vmess
+  server: 172.64.194.15
+  port: 443
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg1.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: lg1.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1832
+  type: vmess
+  server: 172.64.195.15
+  port: 443
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg1.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /AUIKN8AU
+    headers:
+      Host: lg1.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1757
+  type: vmess
+  server: 172.64.194.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: 🇺🇸-美国-172.64.194.14
+  type: vmess
+  server: 172.64.194.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1819
+  type: vmess
+  server: 172.64.194.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1824
+  type: vmess
+  server: 172.64.195.15
+  port: 443
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg1.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /AUIKN8AU
+    headers:
+      Host: lg1.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1777
+  type: vmess
+  server: 172.64.194.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇫🇷FR_1783
+  type: vmess
+  server: 172.64.194.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: 🇺🇸-美国-172.64.195.15
+  type: vmess
+  server: 172.64.195.15
+  port: 443
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.195.15
+  network: ws
+  ws-opts:
+    path: /AUIKN8AU
+    headers:
+      Host: lg1.v2ray6.xyz
+  udp: true
+- name: RELAY-172.64.194.15-64...
+  type: vmess
+  server: 172.64.194.15
+  port: 443
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg1.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: lg1.v2ray6.xyz
+  udp: true
+- name: github.com/freefq - 美国CloudFlare节点 25
+  type: vmess
+  server: 172.64.195.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1815
+  type: vmess
+  server: 172.64.194.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: 美国_0411481
+  type: vmess
+  server: 172.64.194.10
+  port: 443
+  uuid: 40d496a6-ceeb-4096-baeb-4cc52b205621
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.194.10
+  network: ws
+  ws-opts:
+    path: /ECTCJ0DF
+    headers:
+      Host: 154.v2ray3.xyz
+  udp: true
+- name: 美国_0411428
+  type: vmess
+  server: 172.64.194.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇫🇷FR_1785
+  type: vmess
+  server: 172.64.195.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇫🇷FR_1767
+  type: vmess
+  server: 172.64.195.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: 4Nika-1415
+  type: vmess
+  server: 172.64.194.15
+  port: 443
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.194.15
+  network: ws
+  ws-opts:
+    path: /AUIKN8AU
+    headers:
+      Host: lg1.v2ray6.xyz
+  udp: true
+- name: 美国_0409936
+  type: vmess
+  server: 172.64.194.10
+  port: 443
+  uuid: 40d496a6-ceeb-4096-baeb-4cc52b205621
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.194.10
+  network: ws
+  ws-opts:
+    path: /ECTCJ0DF
+    headers:
+      Host: 154.v2ray3.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇫🇷FR_1786
+  type: vmess
+  server: 172.64.194.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: 美国_0408899
+  type: vmess
+  server: 172.64.195.15
+  port: 443
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.195.15
+  network: ws
+  ws-opts:
+    path: /AUIKN8AU
+    headers:
+      Host: lg1.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1773
+  type: vmess
+  server: 172.64.194.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: 美国_0408909
+  type: vmess
+  server: 172.64.194.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.194.13
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: 4FreeIran-1537
+  type: vmess
+  server: 172.64.194.15
+  port: 443
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.194.15
+  network: ws
+  ws-opts:
+    path: /AUIKN8AU
+    headers:
+      Host: lg1.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1771-1
+  type: vmess
+  server: 172.64.194.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1761
+  type: vmess
+  server: 172.64.195.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1752-2
+  type: vmess
+  server: 172.64.195.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: 4Iran-1405
+  type: vmess
+  server: 172.64.194.15
+  port: 443
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.194.15
+  network: ws
+  ws-opts:
+    path: /AUIKN8AU
+    headers:
+      Host: lg1.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1758-2
+  type: vmess
+  server: 172.64.195.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇫🇷FR_1783-1
+  type: vmess
+  server: 172.64.195.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: 🇺🇸-美国-172.64.194.10
+  type: vmess
+  server: 172.64.194.10
+  port: 443
+  uuid: 40d496a6-ceeb-4096-baeb-4cc52b205621
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.194.10
+  network: ws
+  ws-opts:
+    path: /ECTCJ0DF
+    headers:
+      Host: 154.v2ray3.xyz
+  udp: true
+- name: 🇺🇸-美国-172.64.195.15-1
+  type: vmess
+  server: 172.64.195.15
+  port: 443
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg1.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /AUIKN8AU
+    headers:
+      Host: lg1.v2ray6.xyz
+  udp: true
+- name: 🇺🇸 https://github.com/...____-3
+  type: vmess
+  server: 172.64.194.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: 美国_0409248
+  type: vmess
+  server: 172.64.194.15
+  port: 443
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.194.15
+  network: ws
+  ws-opts:
+    path: /AUIKN8AU
+    headers:
+      Host: lg1.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1802-2
+  type: vmess
+  server: 172.64.195.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: github.com/freefq - 美国CloudFlare节点 17-1
+  type: vmess
+  server: 172.64.195.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇫🇷FR_1782
+  type: vmess
+  server: 172.64.195.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇫🇷FR_1781
+  type: vmess
+  server: 172.64.195.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇫🇷FR_1834
+  type: vmess
+  server: 172.64.194.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1762
+  type: vmess
+  server: 172.64.195.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1787-3
+  type: vmess
+  server: 172.64.195.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1767-1
+  type: vmess
+  server: 172.64.194.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: 🇺🇸-美国-172.64.194.15
+  type: vmess
+  server: 172.64.194.15
+  port: 443
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.194.15
+  network: ws
+  ws-opts:
+    path: /AUIKN8AU
+    headers:
+      Host: lg1.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_1879-3
+  type: vmess
+  server: 172.64.194.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: 🇺🇸-美国-172.64.195.10
+  type: vmess
+  server: 172.64.195.10
+  port: 443
+  uuid: 40d496a6-ceeb-4096-baeb-4cc52b205621
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 172.64.195.10
+  network: ws
+  ws-opts:
+    path: /ECTCJ0DF
+    headers:
+      Host: 154.v2ray3.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇺🇸US_442
+  type: vmess
+  server: 172.64.194.13
+  port: 443
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: lg2.v2ray6.xyz
+  network: ws
+  ws-opts:
+    path: /5QNROSRV
+    headers:
+      Host: lg2.v2ray6.xyz
+  udp: true
+- name: Relay_🇺🇸US-🇫🇷FR_1831
+  type: vmess
+  server: 172.64.195.14
+  port: 80
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.v2ray1.xyz
+  udp: true
+- name: 美国 796
+  type: vmess
+  server: 172.64.194.76
+  port: 2095
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /github.com/Alvin9999
+    headers:
+      Host: ip11.6016725.xyz
+  udp: true
+- name: 🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.195.195:443-1
+  type: vless
+  server: 172.64.195.195
+  port: 443
+  uuid: 2b3b9f3f-f8ca-4a97-f6e0-afcedfb7efb7
+  tls: true
+  servername: juzisg.zdzdzd.xyz
+  network: ws
+  ws-opts:
+    path: /juzi
+    headers:
+      Host: juzisg.zdzdzd.xyz
+  udp: true
+- name: 🏁RELAY-172.64.194.76-1008
+  type: vmess
+  server: 172.64.194.76
+  port: 2095
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /github.com/Alvin9999
+    headers:
+      Host: ip11.6016725.xyz
+  udp: true
+- name: 🏁RELAY-172.64.195.80-8544
+  type: vmess
+  server: 172.64.195.80
+  port: 8080
+  uuid: f467f4da-2226-448d-a30d-463ef10548ac
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 172.64.195.80
+  udp: true
+- name: 🏁RELAY-172.64.194.98-8545
+  type: vmess
+  server: 172.64.194.98
+  port: 2095
+  uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /hgcefomn
+    headers:
+      Host: 172.64.194.98
+  udp: true
+- name: 🏁RELAY-172.64.194.234-8546
+  type: vmess
+  server: 172.64.194.234
+  port: 2095
+  uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /hgcefomn
+    headers:
+      Host: 172.64.194.234
+  udp: true
+- name: 🏁RELAY-172.64.194.76-1008-1
+  type: vmess
+  server: 172.64.194.76
+  port: 2095
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /github.com/Alvin9999
+    headers:
+      Host: ip11.6016725.xyz
+  udp: true
+- name: 🏁RELAY-172.64.195.80-8544-1
+  type: vmess
+  server: 172.64.195.80
+  port: 8080
+  uuid: f467f4da-2226-448d-a30d-463ef10548ac
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 172.64.195.80
+  udp: true
+- name: 🏁RELAY-172.64.194.98-8545-1
+  type: vmess
+  server: 172.64.194.98
+  port: 2095
+  uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /hgcefomn
+    headers:
+      Host: 172.64.194.98
+  udp: true
+- name: 🏁RELAY-172.64.194.234-8546-1
+  type: vmess
+  server: 172.64.194.234
+  port: 2095
+  uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /hgcefomn
+    headers:
+      Host: 172.64.194.234
+  udp: true
+- name: 美国 796-1
+  type: vmess
+  server: 172.64.194.76
+  port: 2095
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /github.com/Alvin9999
+    headers:
+      Host: ip11.6016725.xyz
+  udp: true
+- name: '@AblNet7 🇮🇷 نت ملی 🇨🇱-2'
+  type: ss
+  server: 154.205.153.107
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: '@AblNet7 🇮🇷 نت ملی 🇨🇱-3'
+  type: ss
+  server: 154.205.153.107
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: 美国 796-2
+  type: vmess
+  server: 172.64.194.76
+  port: 2095
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /github.com/Alvin9999
+    headers:
+      Host: ip11.6016725.xyz
+  udp: true

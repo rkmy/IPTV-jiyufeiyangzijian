@@ -1,0 +1,993 @@
+proxies:
+- name: 马来西亚 吉隆坡阿里云
+  type: vmess
+  server: 47.250.177.194
+  port: 64304
+  uuid: e42185f7-24f4-452e-b3b7-67909fe369ae
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.177.194
+  udp: true
+- name: 马来西亚 吉隆坡阿里云-1
+  type: vmess
+  server: 47.250.159.134
+  port: 20522
+  uuid: 44827d8e-77b3-46ec-bb36-c2238e0677be
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: 🇲🇾 MY_1 | ⬇️ 3.7MB/s-500
+  type: vmess
+  server: 47.254.240.75
+  port: 20522
+  uuid: 94f218c6-467d-4384-8515-f707e6441ec0
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: ''
+  udp: true
+- name: 🇲🇾 MY_1 | ⬇️ 3.7MB/s-500-1
+  type: vmess
+  server: 47.254.240.75
+  port: 20522
+  uuid: 94f218c6-467d-4384-8515-f707e6441ec0
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: ''
+  udp: true
+- name: 🇲🇾[openproxylist.com] vmess-MY
+  type: vmess
+  server: 47.250.159.134
+  port: 28293
+  uuid: ff9ad07c-e1b4-467f-90bc-9b067f47dd5c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: 🇲🇾MY-47.250.85.161-5574
+  type: vmess
+  server: 47.250.85.161
+  port: 17199
+  uuid: 16bb5574-7c94-428f-baf0-39fe7894a41c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.85.161
+  udp: true
+- name: 🇲🇾MY-47.250.159.134-5573
+  type: vmess
+  server: 47.250.159.134
+  port: 28293
+  uuid: ff9ad07c-e1b4-467f-90bc-9b067f47dd5c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: 🇲🇾MY-47.250.159.134-0219
+  type: vmess
+  server: 47.250.159.134
+  port: 20522
+  uuid: 44827d8e-77b3-46ec-bb36-c2238e0677be
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: 🇲🇾MY-47.250.85.161-0216
+  type: vmess
+  server: 47.250.85.161
+  port: 17199
+  uuid: 16bb5574-7c94-428f-baf0-39fe7894a41c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 47.250.85.161
+  udp: true
+- name: 🇲🇾MY-38.54.98.150-5665
+  type: vmess
+  server: 38.54.98.150
+  port: 62656
+  uuid: b771d99f-ef69-4b5c-8398-665bf851a661
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 38.54.98.150
+  udp: true
+- name: 🇲🇾MY-47.250.85.161-5574-1
+  type: vmess
+  server: 47.250.85.161
+  port: 17199
+  uuid: 16bb5574-7c94-428f-baf0-39fe7894a41c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.85.161
+  udp: true
+- name: 🇲🇾MY-47.250.159.134-5573-1
+  type: vmess
+  server: 47.250.159.134
+  port: 28293
+  uuid: ff9ad07c-e1b4-467f-90bc-9b067f47dd5c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: 🇲🇾MY-47.250.159.134-0219-1
+  type: vmess
+  server: 47.250.159.134
+  port: 20522
+  uuid: 44827d8e-77b3-46ec-bb36-c2238e0677be
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: 🇲🇾MY-47.250.85.161-0216-1
+  type: vmess
+  server: 47.250.85.161
+  port: 17199
+  uuid: 16bb5574-7c94-428f-baf0-39fe7894a41c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 47.250.85.161
+  udp: true
+- name: 🇲🇾MY-38.54.98.150-5665-1
+  type: vmess
+  server: 38.54.98.150
+  port: 62656
+  uuid: b771d99f-ef69-4b5c-8398-665bf851a661
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 38.54.98.150
+  udp: true
+- name: '@AblNet7 🇮🇷 نت ملی 🇲🇾'
+  type: ss
+  server: 38.60.192.176
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: 'Channel id: @ShadowProxy66 🇲🇾'
+  type: ss
+  server: 142.111.146.222
+  port: 8443
+  cipher: chacha20-ietf-poly1305
+  password: RYZXis51g7ctFPdkX6zA88
+  udp: true
+- name: ss- Malaysia 🇲🇾
+  type: ss
+  server: 142.111.146.222
+  port: 8443
+  cipher: chacha20-ietf-poly1305
+  password: RYZXis51g7ctFPdkX6zA88
+  udp: true
+- name: 'کانال تلگرامی ما : @skypro_vpn-3'
+  type: ss
+  server: 142.111.146.222
+  port: 8443
+  cipher: chacha20-ietf-poly1305
+  password: RYZXis51g7ctFPdkX6zA88
+  udp: true
+- name: '@v2ray_configs_pools❤️‍🔥⚡-1'
+  type: ss
+  server: 103.243.215.17
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🔐 @AblNet7 🇲🇾 机场推荐
+  type: vmess
+  server: 38.60.195.254
+  port: 1037
+  uuid: 2d978341-a391-4b54-8623-12284dc24525
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: ml0605.ysds168.shop
+  network: tcp
+  udp: true
+- name: 🇲🇾 MY | 🔓 VMESS | @v2ray_free_conf [18]
+  type: vmess
+  server: 47.250.159.134
+  port: 28293
+  uuid: ff9ad07c-e1b4-467f-90bc-9b067f47dd5c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: '>>@v2rayNG_Matsuri::MY'
+  type: ss
+  server: 38.60.192.176
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: 🇲🇾MY-47.250.85.161-5574-2
+  type: vmess
+  server: 47.250.85.161
+  port: 17199
+  uuid: 16bb5574-7c94-428f-baf0-39fe7894a41c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.85.161
+  udp: true
+- name: 🇲🇾MY-47.250.159.134-5573-2
+  type: vmess
+  server: 47.250.159.134
+  port: 28293
+  uuid: ff9ad07c-e1b4-467f-90bc-9b067f47dd5c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: 🇲🇾MY-47.250.159.134-5870
+  type: vmess
+  server: 47.250.159.134
+  port: 28293
+  uuid: ff9ad07c-e1b4-467f-90bc-9b067f47dd5c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: 🔐 @AblNet7 🇲🇾 机场推荐-1
+  type: vmess
+  server: 38.60.195.254
+  port: 1037
+  uuid: 2d978341-a391-4b54-8623-12284dc24525
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: ml0605.ysds168.shop
+  network: tcp
+  udp: true
+- name: 🇲🇾 MY | 🔓 VMESS | @v2ray_free_conf [18]-1
+  type: vmess
+  server: 47.250.159.134
+  port: 28293
+  uuid: ff9ad07c-e1b4-467f-90bc-9b067f47dd5c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: 🇲🇾MY-47.250.85.161-5574-3
+  type: vmess
+  server: 47.250.85.161
+  port: 17199
+  uuid: 16bb5574-7c94-428f-baf0-39fe7894a41c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.85.161
+  udp: true
+- name: 🇲🇾MY-47.250.159.134-5573-3
+  type: vmess
+  server: 47.250.159.134
+  port: 28293
+  uuid: ff9ad07c-e1b4-467f-90bc-9b067f47dd5c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: 🇲🇾MY_140_2@139
+  type: vmess
+  server: 47.250.159.134
+  port: 28293
+  uuid: ff9ad07c-e1b4-467f-90bc-9b067f47dd5c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: 🇲🇾MY_141_2@140
+  type: vmess
+  server: 47.250.85.161
+  port: 17199
+  uuid: 16bb5574-7c94-428f-baf0-39fe7894a41c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.85.161
+  udp: true
+- name: 🇺🇸US_312_2@311
+  type: vmess
+  server: 38.54.98.150
+  port: 62656
+  uuid: b771d99f-ef69-4b5c-8398-665bf851a661
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 38.54.98.150
+  udp: true
+- name: '@AblNet7 🇮🇷 نت ملی 🇲🇾-1'
+  type: ss
+  server: 38.60.192.176
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: 'Channel id: @ShadowProxy66 🇲🇾-1'
+  type: ss
+  server: 142.111.146.222
+  port: 8443
+  cipher: chacha20-ietf-poly1305
+  password: RYZXis51g7ctFPdkX6zA88
+  udp: true
+- name: ss- Malaysia 🇲🇾-1
+  type: ss
+  server: 142.111.146.222
+  port: 8443
+  cipher: chacha20-ietf-poly1305
+  password: RYZXis51g7ctFPdkX6zA88
+  udp: true
+- name: 'کانال تلگرامی ما : @skypro_vpn-3-3'
+  type: ss
+  server: 142.111.146.222
+  port: 8443
+  cipher: chacha20-ietf-poly1305
+  password: RYZXis51g7ctFPdkX6zA88
+  udp: true
+- name: '@v2ray_configs_pools❤️‍🔥⚡-1-3'
+  type: ss
+  server: 103.243.215.17
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🔐 @AblNet7 🇲🇾 机场推荐-2
+  type: vmess
+  server: 38.60.195.254
+  port: 1037
+  uuid: 2d978341-a391-4b54-8623-12284dc24525
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: ml0605.ysds168.shop
+  network: tcp
+  udp: true
+- name: 🇲🇾 MY | 🔓 VMESS | @v2ray_free_conf [18]-2
+  type: vmess
+  server: 47.250.159.134
+  port: 28293
+  uuid: ff9ad07c-e1b4-467f-90bc-9b067f47dd5c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: '>>@v2rayNG_Matsuri::MY-1'
+  type: ss
+  server: 38.60.192.176
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: 🇲🇾MY-47.250.85.161-5574-4
+  type: vmess
+  server: 47.250.85.161
+  port: 17199
+  uuid: 16bb5574-7c94-428f-baf0-39fe7894a41c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.85.161
+  udp: true
+- name: 🇲🇾MY-47.250.159.134-5573-4
+  type: vmess
+  server: 47.250.159.134
+  port: 28293
+  uuid: ff9ad07c-e1b4-467f-90bc-9b067f47dd5c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: 美国 615
+  type: vmess
+  server: 38.54.98.110
+  port: 2052
+  uuid: 665d9b8f-153d-4907-adac-de12afd9c851
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 38.54.98.110
+  network: tcp
+  udp: true
+- name: 美国 765
+  type: vmess
+  server: 38.60.195.254
+  port: 1037
+  uuid: 2d978341-a391-4b54-8623-12284dc24525
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 38.60.195.254
+  network: tcp
+  udp: true
+- name: -HuUM
+  type: ss
+  server: 103.243.215.17
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🇲🇾MY-47.250.159.134-5493
+  type: vmess
+  server: 47.250.159.134
+  port: 20522
+  uuid: 44827d8e-77b3-46ec-bb36-c2238e0677be
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: 🇲🇾MY-47.250.85.161-0238
+  type: vmess
+  server: 47.250.85.161
+  port: 17199
+  uuid: 16bb5574-7c94-428f-baf0-39fe7894a41c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 47.250.85.161
+  udp: true
+- name: 🇲🇾MY-38.54.98.150-5701
+  type: vmess
+  server: 38.54.98.150
+  port: 62656
+  uuid: b771d99f-ef69-4b5c-8398-665bf851a661
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 38.54.98.150
+  udp: true
+- name: 🇲🇾MY-47.250.159.134-5493-1
+  type: vmess
+  server: 47.250.159.134
+  port: 20522
+  uuid: 44827d8e-77b3-46ec-bb36-c2238e0677be
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: 🇲🇾MY-47.250.85.161-0238-1
+  type: vmess
+  server: 47.250.85.161
+  port: 17199
+  uuid: 16bb5574-7c94-428f-baf0-39fe7894a41c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 47.250.85.161
+  udp: true
+- name: 🇲🇾MY-38.54.98.150-5701-1
+  type: vmess
+  server: 38.54.98.150
+  port: 62656
+  uuid: b771d99f-ef69-4b5c-8398-665bf851a661
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 38.54.98.150
+  udp: true
+- name: 美国 615-1
+  type: vmess
+  server: 38.54.98.110
+  port: 2052
+  uuid: 665d9b8f-153d-4907-adac-de12afd9c851
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 38.54.98.110
+  network: tcp
+  udp: true
+- name: 美国 765-1
+  type: vmess
+  server: 38.60.195.254
+  port: 1037
+  uuid: 2d978341-a391-4b54-8623-12284dc24525
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 38.60.195.254
+  network: tcp
+  udp: true
+- name: 🇲🇾[openproxylist.com] vmess-MY-1
+  type: vmess
+  server: 47.250.159.134
+  port: 28293
+  uuid: ff9ad07c-e1b4-467f-90bc-9b067f47dd5c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: 🔐 @AblNet7 🇲🇾 机场推荐-3
+  type: vmess
+  server: 38.60.195.254
+  port: 1037
+  uuid: 2d978341-a391-4b54-8623-12284dc24525
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: ml0605.ysds168.shop
+  network: tcp
+  udp: true
+- name: 🇲🇾 MY | 🔓 VMESS | @v2ray_free_conf [18]-3
+  type: vmess
+  server: 47.250.159.134
+  port: 28293
+  uuid: ff9ad07c-e1b4-467f-90bc-9b067f47dd5c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: '@AblNet7 🇮🇷 نت ملی 🇲🇾-2'
+  type: ss
+  server: 38.60.192.176
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: 'Channel id: @ShadowProxy66 🇲🇾-2'
+  type: ss
+  server: 142.111.146.222
+  port: 8443
+  cipher: chacha20-ietf-poly1305
+  password: RYZXis51g7ctFPdkX6zA88
+  udp: true
+- name: 'کانال تلگرامی ما : @skypro_vpn-3-4'
+  type: ss
+  server: 142.111.146.222
+  port: 8443
+  cipher: chacha20-ietf-poly1305
+  password: RYZXis51g7ctFPdkX6zA88
+  udp: true
+- name: '@v2ray_configs_pools❤️‍🔥⚡-33'
+  type: ss
+  server: 103.243.215.17
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: '@AblNet7 🇮🇷 نت ملی 🇲🇾-3'
+  type: ss
+  server: 38.60.192.176
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: 'Channel id: @ShadowProxy66 🇲🇾-3'
+  type: ss
+  server: 142.111.146.222
+  port: 8443
+  cipher: chacha20-ietf-poly1305
+  password: RYZXis51g7ctFPdkX6zA88
+  udp: true
+- name: 'کانال تلگرامی ما : @skypro_vpn-3-5'
+  type: ss
+  server: 142.111.146.222
+  port: 8443
+  cipher: chacha20-ietf-poly1305
+  password: RYZXis51g7ctFPdkX6zA88
+  udp: true
+- name: '@v2ray_configs_pools❤️‍🔥⚡-1-5'
+  type: ss
+  server: 103.243.215.17
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🔐 @AblNet7 🇲🇾 机场推荐-4
+  type: vmess
+  server: 38.60.195.254
+  port: 1037
+  uuid: 2d978341-a391-4b54-8623-12284dc24525
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: ml0605.ysds168.shop
+  network: tcp
+  udp: true
+- name: 🇲🇾 MY | 🔓 VMESS | @v2ray_free_conf [18]-4
+  type: vmess
+  server: 47.250.159.134
+  port: 28293
+  uuid: ff9ad07c-e1b4-467f-90bc-9b067f47dd5c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: '>>@v2rayNG_Matsuri::MY-2'
+  type: ss
+  server: 38.60.192.176
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: q_2283
+  type: vmess
+  server: 38.60.195.254
+  port: 1037
+  uuid: 2d978341-a391-4b54-8623-12284dc24525
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: ml0605.ysds168.shop
+  network: tcp
+  udp: true
+- name: q_2284
+  type: vmess
+  server: 38.60.195.254
+  port: 1037
+  uuid: 2d978341-a391-4b54-8623-12284dc24525
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 38.60.195.254
+  network: tcp
+  udp: true
+- name: q_2432
+  type: vmess
+  server: 38.54.113.13
+  port: 443
+  uuid: e4de34c6-eaac-4528-ac90-e03b3f66f9d2
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: tcp
+  udp: true
+- name: q_2491
+  type: vmess
+  server: 47.250.159.134
+  port: 20522
+  uuid: 44827d8e-77b3-46ec-bb36-c2238e0677be
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: q_2492
+  type: vmess
+  server: 47.250.159.134
+  port: 28293
+  uuid: ff9ad07c-e1b4-467f-90bc-9b067f47dd5c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.159.134
+  udp: true
+- name: q_2493
+  type: vmess
+  server: 47.250.179.144
+  port: 24648
+  uuid: 9b3c1a80-b84d-42e8-8b81-0e07cf5eed8b
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.179.144
+  udp: true
+- name: q_2494
+  type: vmess
+  server: 47.250.85.161
+  port: 17199
+  uuid: 16bb5574-7c94-428f-baf0-39fe7894a41c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.250.85.161
+  udp: true
+- name: q_2496
+  type: vmess
+  server: 47.254.240.75
+  port: 11000
+  uuid: 8610a792-83e6-4c71-acc8-c8b101440c07
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.254.240.75
+  udp: true
+- name: q_2497
+  type: vmess
+  server: 47.254.240.75
+  port: 50369
+  uuid: b63d4e6a-7d3f-4499-8bef-aebba3896477
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: 47.254.240.75
+  udp: true
+- name: ab_50
+  type: vmess
+  server: 38.60.195.254
+  port: 1037
+  uuid: 2d978341-a391-4b54-8623-12284dc24525
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: ml0605.ysds168.shop
+  network: tcp
+  udp: true
+- name: ab_50-1
+  type: vmess
+  server: 38.60.195.254
+  port: 1037
+  uuid: 2d978341-a391-4b54-8623-12284dc24525
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: ml0605.ysds168.shop
+  network: tcp
+  udp: true
+- name: ab_50-2
+  type: vmess
+  server: 38.60.195.254
+  port: 1037
+  uuid: 2d978341-a391-4b54-8623-12284dc24525
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: ml0605.ysds168.shop
+  network: tcp
+  udp: true
+- name: ab_50-3
+  type: vmess
+  server: 38.60.195.254
+  port: 1037
+  uuid: 2d978341-a391-4b54-8623-12284dc24525
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: ml0605.ysds168.shop
+  network: tcp
+  udp: true
+- name: ab_50-4
+  type: vmess
+  server: 38.60.195.254
+  port: 1037
+  uuid: 2d978341-a391-4b54-8623-12284dc24525
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: ml0605.ysds168.shop
+  network: tcp
+  udp: true
+- name: 🇲🇾 MY | 🔓 VMESS | @v2ray_free_conf [18]-5
+  type: vmess
+  server: 47.250.159.134
+  port: 28293
+  uuid: ff9ad07c-e1b4-467f-90bc-9b067f47dd5c
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /arki
+    headers:
+      Host: ''
+  udp: true
+- name: 美国 615-2
+  type: vmess
+  server: 38.54.98.110
+  port: 2052
+  uuid: 665d9b8f-153d-4907-adac-de12afd9c851
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 38.54.98.110
+  network: tcp
+  udp: true
+- name: 美国 765-2
+  type: vmess
+  server: 38.60.195.254
+  port: 1037
+  uuid: 2d978341-a391-4b54-8623-12284dc24525
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 38.60.195.254
+  network: tcp
+  udp: true
+- name: 🇲🇾MY-47.250.159.134-5514 | 11.319MB
+  type: vmess
+  server: 47.250.159.134
+  port: 20522
+  uuid: 44827d8e-77b3-46ec-bb36-c2238e0677be
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 47.250.159.134
+  udp: true

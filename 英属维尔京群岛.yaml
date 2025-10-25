@@ -1,0 +1,205 @@
+proxies:
+- name: 🔒 VL-WS-NA 🇻🇬 VG-203.32.121.53:8080
+  type: vless
+  server: 203.32.121.53
+  port: 8080
+  uuid: b907aea0-cf1a-489f-aef7-b55a1ac04f34
+  tls: false
+  network: ws
+  ws-opts:
+    path: /Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg
+    headers:
+      Host: join-to.vmessorg.Community.
+  udp: true
+- name: 🏁RELAY-203.34.80.107-8307
+  type: vmess
+  server: 203.34.80.107
+  port: 443
+  uuid: b3a21def-5fcc-47a8-a6a0-a34e29d5288a
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 203.34.80.107
+  network: ws
+  ws-opts:
+    path: /wss51068
+    headers:
+      Host: 203.34.80.107
+  udp: true
+- name: 🏁RELAY-203.34.80.107-8308
+  type: vmess
+  server: 203.34.80.107
+  port: 443
+  uuid: 824c58b1-65ba-4680-a609-663a000dbb92
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 203.34.80.107
+  network: ws
+  ws-opts:
+    path: /wss13889
+    headers:
+      Host: 203.34.80.107
+  udp: true
+- name: 🏁RELAY-203.24.103.45-8310
+  type: vmess
+  server: 203.24.103.45
+  port: 443
+  uuid: b3a21def-5fcc-47a8-a6a0-a34e29d5288a
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 203.24.103.45
+  network: ws
+  ws-opts:
+    path: /wss51068
+    headers:
+      Host: 203.24.103.45
+  udp: true
+- name: 🏁RELAY-203.34.80.107-8307-1
+  type: vmess
+  server: 203.34.80.107
+  port: 443
+  uuid: b3a21def-5fcc-47a8-a6a0-a34e29d5288a
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 203.34.80.107
+  network: ws
+  ws-opts:
+    path: /wss51068
+    headers:
+      Host: 203.34.80.107
+  udp: true
+- name: 🏁RELAY-203.34.80.107-8308-1
+  type: vmess
+  server: 203.34.80.107
+  port: 443
+  uuid: 824c58b1-65ba-4680-a609-663a000dbb92
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 203.34.80.107
+  network: ws
+  ws-opts:
+    path: /wss13889
+    headers:
+      Host: 203.34.80.107
+  udp: true
+- name: 🏁RELAY-203.24.103.45-8310-1
+  type: vmess
+  server: 203.24.103.45
+  port: 443
+  uuid: b3a21def-5fcc-47a8-a6a0-a34e29d5288a
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 203.24.103.45
+  network: ws
+  ws-opts:
+    path: /wss51068
+    headers:
+      Host: 203.24.103.45
+  udp: true
+- name: 🔒 VL-WS-NA 🇻🇬 VG-203.32.121.53:8080-1
+  type: vless
+  server: 203.32.121.53
+  port: 8080
+  uuid: b907aea0-cf1a-489f-aef7-b55a1ac04f34
+  tls: false
+  network: ws
+  ws-opts:
+    path: /Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg
+    headers:
+      Host: join-to.vmessorg.Community.
+  udp: true
+- name: 🏁RELAY-203.34.80.107-8336
+  type: vmess
+  server: 203.34.80.107
+  port: 443
+  uuid: b3a21def-5fcc-47a8-a6a0-a34e29d5288a
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 203.34.80.107
+  network: ws
+  ws-opts:
+    path: /wss51068
+    headers:
+      Host: 203.34.80.107
+  udp: true
+- name: 🏁RELAY-203.34.80.107-8337
+  type: vmess
+  server: 203.34.80.107
+  port: 443
+  uuid: 824c58b1-65ba-4680-a609-663a000dbb92
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 203.34.80.107
+  network: ws
+  ws-opts:
+    path: /wss13889
+    headers:
+      Host: 203.34.80.107
+  udp: true
+- name: 🏁RELAY-203.24.103.45-8339
+  type: vmess
+  server: 203.24.103.45
+  port: 443
+  uuid: b3a21def-5fcc-47a8-a6a0-a34e29d5288a
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 203.24.103.45
+  network: ws
+  ws-opts:
+    path: /wss51068
+    headers:
+      Host: 203.24.103.45
+  udp: true
+- name: 🏁RELAY-203.34.80.107-8336-1
+  type: vmess
+  server: 203.34.80.107
+  port: 443
+  uuid: b3a21def-5fcc-47a8-a6a0-a34e29d5288a
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 203.34.80.107
+  network: ws
+  ws-opts:
+    path: /wss51068
+    headers:
+      Host: 203.34.80.107
+  udp: true
+- name: 🏁RELAY-203.34.80.107-8337-1
+  type: vmess
+  server: 203.34.80.107
+  port: 443
+  uuid: 824c58b1-65ba-4680-a609-663a000dbb92
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 203.34.80.107
+  network: ws
+  ws-opts:
+    path: /wss13889
+    headers:
+      Host: 203.34.80.107
+  udp: true
+- name: 🏁RELAY-203.24.103.45-8339-1
+  type: vmess
+  server: 203.24.103.45
+  port: 443
+  uuid: b3a21def-5fcc-47a8-a6a0-a34e29d5288a
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: 203.24.103.45
+  network: ws
+  ws-opts:
+    path: /wss51068
+    headers:
+      Host: 203.24.103.45
+  udp: true

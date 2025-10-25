@@ -1,0 +1,738 @@
+proxies:
+- name: www.85la.com🇫🇷FR_18|5.7MB/s|0%|TK-BE|D+|GPT⁺
+  type: vless
+  server: 45.154.96.35
+  port: 2589
+  uuid: 8f0120f1-ba26-e137-5e06-a99b844741aa
+  tls: true
+  servername: tgju.org
+  network: tcp
+  udp: true
+- name: 🔒 VL-WS-TLS 🇧🇪 BE-34.22.142.117:443
+  type: vless
+  server: 34.22.142.117
+  port: 443
+  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
+  tls: true
+  servername: ly.ylks01.eu.org
+  network: ws
+  ws-opts:
+    path: /blue
+    headers:
+      Host: ly.ylks01.eu.org
+  udp: true
+- name: 🇧🇪BE-192.71.249.78-0287
+  type: ss
+  server: 192.71.249.78
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🇧🇪BE-192.121.170.52-0188
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: 🇧🇪BE-192.121.170.52-5516
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: 🇧🇪BE-192.71.249.78-0287-1
+  type: ss
+  server: 192.71.249.78
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🇧🇪BE-192.121.170.52-0188-1
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: 🇧🇪BE-192.121.170.52-5516-1
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: 🇧🇪[Telegram:tik7net_vpn]
+  type: ss
+  server: 192.71.249.108
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: 'کانال تلگرامی : @skypro_vpn-19'
+  type: vless
+  server: 38.180.87.229
+  port: 9954
+  uuid: 9f09dfa5-1b93-ba74-31b4-9101ccf5dad9
+  tls: true
+  servername: store.steampowered.com
+  network: tcp
+  udp: true
+- name: '@Daily_Configs-275'
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: '@V2rayNGVPN <= کانفیگ رایگان-104'
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: 'Channel id: @ShadowProxy66 🇧🇪'
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: Telegram:@tik7net_vpn 🇧🇪
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: ✅ @vistav2ray  👈👈کانال ما-58
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: '>>@configV2rayNG::XX-47'
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: 🇧🇪BE-192.71.249.78-0287-2
+  type: ss
+  server: 192.71.249.78
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 'کانال تلگرامی : @skypro_vpn-18-1'
+  type: vless
+  server: 38.180.87.229
+  port: 9954
+  uuid: 9f09dfa5-1b93-ba74-31b4-9101ccf5dad9
+  tls: true
+  servername: store.steampowered.com
+  network: tcp
+  udp: true
+- name: 'کانال تلگرامی : @skypro_vpn-18-2'
+  type: vless
+  server: 38.180.87.229
+  port: 9954
+  uuid: 9f09dfa5-1b93-ba74-31b4-9101ccf5dad9
+  tls: true
+  servername: store.steampowered.com
+  network: tcp
+  udp: true
+- name: '@Daily_Configs-21-3'
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: '@V2rayNGVPN <= کانفیگ رایگان-8-3'
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: 'Channel id: @ShadowProxy66 🇧🇪-1'
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: Telegram:@tik7net_vpn 🇧🇪-1
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: ✅ @vistav2ray  👈👈کانال ما-4-3
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: '>>@configV2rayNG::XX-6-3'
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: _02_1@1
+  type: ss
+  server: 192.71.249.78
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🇨🇭CH_23_2@22
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: 🇧🇪[Telegram:tik7net_vpn]-1
+  type: ss
+  server: 192.71.249.108
+  port: 990
+  cipher: chacha20-ietf-poly1305
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  udp: true
+- name: 'کانال تلگرامی : @skypro_vpn-19-3'
+  type: vless
+  server: 38.180.87.229
+  port: 9954
+  uuid: 9f09dfa5-1b93-ba74-31b4-9101ccf5dad9
+  tls: true
+  servername: store.steampowered.com
+  network: tcp
+  udp: true
+- name: '@Daily_Configs-275-1'
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: '@V2rayNGVPN <= کانفیگ رایگان-104-1'
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: 'Channel id: @ShadowProxy66 🇧🇪-2'
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: Telegram:@tik7net_vpn 🇧🇪-2
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: ✅ @vistav2ray  👈👈کانال ما-58-1
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: '>>@configV2rayNG::XX-47-1'
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: 🇧🇪BE-192.71.249.78-0287-3
+  type: ss
+  server: 192.71.249.78
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: -ev9I
+  type: ss
+  server: 192.71.249.78
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🔒 VL-WS-TLS 🇧🇪 BE-34.22.142.117:443-1
+  type: vless
+  server: 34.22.142.117
+  port: 443
+  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
+  tls: true
+  servername: ly.ylks01.eu.org
+  network: ws
+  ws-opts:
+    path: /blue
+    headers:
+      Host: ly.ylks01.eu.org
+  udp: true
+- name: 🇧🇪BE-192.71.249.78-0321
+  type: ss
+  server: 192.71.249.78
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🇧🇪BE-192.71.249.78-0321-1
+  type: ss
+  server: 192.71.249.78
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: _17
+  type: ss
+  server: 192.71.249.78
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 🇧🇪BE-192.71.249.78-0321-2
+  type: ss
+  server: 192.71.249.78
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: '@Daily_Configs-21-5'
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: 'Channel id: @ShadowProxy66 🇧🇪-3'
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: Telegram:@tik7net_vpn 🇧🇪-3
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: ✅ @vistav2ray  👈👈کانال ما-4-5
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: 'کانال تلگرامی : @skypro_vpn-19-4'
+  type: vless
+  server: 38.180.87.229
+  port: 9954
+  uuid: 9f09dfa5-1b93-ba74-31b4-9101ccf5dad9
+  tls: true
+  servername: store.steampowered.com
+  network: tcp
+  udp: true
+- name: '@Daily_Configs-292-2'
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: 'Channel id: @ShadowProxy66 🇧🇪-4'
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: Telegram:@tik7net_vpn 🇧🇪-4
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: ✅ @vistav2ray  👈👈کانال ما-60-2
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: 🇧🇪BE-192.71.249.78-0321-3
+  type: ss
+  server: 192.71.249.78
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
+- name: 'کانال تلگرامی : @skypro_vpn-18-5'
+  type: vless
+  server: 38.180.87.229
+  port: 9954
+  uuid: 9f09dfa5-1b93-ba74-31b4-9101ccf5dad9
+  tls: true
+  servername: store.steampowered.com
+  network: tcp
+  udp: true
+- name: q_0500
+  type: vless
+  server: 141.98.233.152
+  port: 51423
+  uuid: abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d
+  tls: true
+  servername: www.cloudflare.com
+  network: tcp
+  udp: true
+- name: q_1261
+  type: vless
+  server: 38.180.87.229
+  port: 9954
+  uuid: c2ec47f4-873f-573f-7d8d-d79d7ad452e6
+  tls: true
+  servername: store.steampowered.com
+  network: tcp
+  udp: true
+- name: q_2419
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: aa_208
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: aa_208-1
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: aa_208-2
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: aa_208-3
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: aa_208-4
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: 192.121.170.52
+  udp: true
+- name: 🇧🇪BE | 🟢 | vmess | @customv2ray | 7
+  type: vmess
+  server: 192.121.170.52
+  port: 20522
+  uuid: 08f870ed-520c-483a-bdec-c4884aad4665
+  alterId: 0
+  cipher: auto
+  tls: false
+  network: ws
+  ws-opts:
+    path: /telegram_@sswia
+    headers:
+      Host: ''
+  udp: true
+- name: BE-192.71.249.78-5372 | 0.825MB
+  type: ss
+  server: 192.71.249.78
+  port: 989
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+  udp: true
